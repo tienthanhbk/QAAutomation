@@ -240,7 +240,7 @@ def caculate_AP(path, strict, dict_path):
                                              convenion.caculate_AP(arr_denote_top30),
                                              convenion.caculate_AP(arr_denote_top10))
         print(newname)
-        # os.rename(path, dict_path + '/' + newname)
+        os.rename(path, dict_path + '/' + newname)
         return convenion.caculate_AP(arr_denote_all)
 
 
@@ -262,4 +262,4 @@ def caculate_mAP(dict_path, strict=False):
 
 
 # statistic_search_result()
-caculate_mAP('elastic/judged/test', strict=True)
+caculate_mAP('elastic/judged/train', strict=False)
