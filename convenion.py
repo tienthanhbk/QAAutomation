@@ -77,5 +77,3 @@ def caculate_AP(arr):
     if relevan_len == 0:
         return 0
     return P_at_k / relevan_len
-
-print(caculate_AP([1, 1, 1, 1, 1, 1, 1, 1, 0, 1]))

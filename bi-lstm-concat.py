@@ -21,7 +21,7 @@ nltk.download('punkt')
 
 PATH_DATA_TRAIN = 'data/train.txt'
 PATH_DATA_DEV = 'data/dev.txt'
-PATH_DATA_TEST = 'data/lstm/test_lstm.txt'
+PATH_DATA_TEST = 'data/test.txt'
 PATH_WORD_VECTOR = 'data/lstm/vectors.txt'
 PATH_VOCAB = 'data/lstm/vocab_all.txt'
 wordvector_dims = 200
@@ -30,6 +30,7 @@ wordvector_dims = 200
 # Defined method
 # Coppy from convenion file
 def customize_string(string):
+    # Return string
     replacer_arr = ['.', ',', '?', '\xa0', '\t']
     string = string.lower().replace('\xa0', ' ')\
         .replace('.', ' ').replace(',', ' ')\
@@ -42,11 +43,12 @@ def customize_string(string):
 
 
 def get_processed_data(FILE_PATH):
+    # Return: [[org_q, related_q, label], ...]
     f = open(FILE_PATH, 'r')
     data_processed = []
     for line in f.readlines():
         line = line.strip()
-        temp = line.split('\t')
+        temp = line.split('\t\t\t')
         for i in range(2):
             temp[i] = customize_string(temp[i])
             # temp[i] = temp[i].lower()
@@ -58,6 +60,9 @@ def get_processed_data(FILE_PATH):
 
 
 def build_corpus(FILE_PATH):
+    # Return: questions_origin: list of [org_q1, ...]
+    # questions_related:[related_q1, ...]
+    # labels: [1, 0, 0, 1, ...]
     data_processed = get_processed_data(FILE_PATH)
     questions_origin = []
     questions_related = []
@@ -70,6 +75,9 @@ def build_corpus(FILE_PATH):
         questions_origin.append(datum[0])
         questions_related.append(datum[1])
         labels.append(int(datum[2]))
+    print(questions_origin)
+    print(questions_related)
+    print(labels)
     return questions_origin, questions_related, labels
 
 
@@ -218,40 +226,38 @@ def get_bilstm_model(vocab_size, vocab):
         weights=[weights])
     # qa_embedding.trainable = False
     # units: dimensionality of the output space
-    bi_lstm = Bidirectional(LSTM(units=200, return_sequences=False))
-    # bi_lstm2 = Bidirectional(
-    #     LSTM(units=200, return_sequences=False))
+    bi_lstm1 = Bidirectional(LSTM(units=200, return_sequences=False))
+    bi_lstm2 = Bidirectional(LSTM(units=200, return_sequences=False))
 
     question_embedding = qa_embedding(question)
-    question_embedding = Dropout(0.75)(question_embedding)
-    question_enc_1 = bi_lstm(question_embedding)
-    question_enc_1 = Dropout(0.75)(question_enc_1)
-    question_enc_1 = BatchNormalization()(question_enc_1)
+    # question_embedding = Dropout(0.75)(question_embedding)
+    question_enc_1 = bi_lstm1(question_embedding)
+    # question_enc_1 = Dropout(0.75)(question_enc_1)
+    # question_enc_1 = BatchNormalization()(question_enc_1)
 
     answer_embedding = qa_embedding(answer)
-    answer_embedding = Dropout(0.75)(answer_embedding)
-    answer_enc_1 = bi_lstm(answer_embedding)
-    answer_enc_1 = Dropout(0.75)(answer_enc_1)
-    answer_enc_1 = BatchNormalization()(answer_enc_1)
+    # answer_embedding = Dropout(0.75)(answer_embedding)
+    answer_enc_1 = bi_lstm2(answer_embedding)
+    # answer_enc_1 = Dropout(0.75)(answer_enc_1)
+    # answer_enc_1 = BatchNormalization()(answer_enc_1)
 
     qa_merged = concatenate([question_enc_1, answer_enc_1])
-    qa_merged = Dense(64, activation='relu', kernel_regularizer=regularizers.l2(0.0007))(qa_merged)
-    qa_merged = Dropout(0.75)(qa_merged)
-    qa_merged = Dense(1, activation='sigmoid', kernel_regularizer=regularizers.l2(0.001),
-                      activity_regularizer=regularizers.l1(0.001))(qa_merged)
-    #         qa_merged = Dense(1, activation='sigmoid')(qa_merged)
-    lstm_model = Model(name="bi_lstm", inputs=[
-        question, answer], outputs=qa_merged)
-    output = lstm_model([question, answer])
+    dense1 = Dense(64, activation='relu', kernel_regularizer=regularizers.l2(0.0007))(qa_merged)
+    # qa_merged = Dropout(0.75)(qa_merged)
+    prediction = Dense(1, activation='sigmoid', kernel_regularizer=regularizers.l2(0.001),
+                      activity_regularizer=regularizers.l1(0.001))(dense1)
+
+    # lstm_model = Model(name="bi_lstm", inputs=[
+    #     question, answer], outputs=qa_merged)
+    # output = lstm_model([question, answer])
     training_model = Model(
-        inputs=[question, answer], outputs=output, name='training_model')
+        inputs=[question, answer], outputs=prediction, name='training_model')
     opt = Adam(lr=0.0001)
     training_model.compile(loss='binary_crossentropy', optimizer=opt)
     return training_model
 
 
-def train():
-    vocab = create_vocab_dict()
+def train(vocab):
     vocab_len = len(vocab)
 
     training_model = get_bilstm_model(vocab_len, vocab)
@@ -268,14 +274,15 @@ def train():
     q_related_dev_eb = turn_to_vector(q_related_dev, vocab)
     Y = np.array(labels)
     callback_list = [AnSelCB(q_origin_dev, q_related_dev, l_dev, [q_origin_dev_eb, q_related_dev_eb]),
-                     ModelCheckpoint('model_CuDNNimprovement-{epoch:02d}-{map:.2f}.h5', monitor='map', verbose=1, save_best_only=True, mode='max'),
-                     EarlyStopping(monitor='map', mode='max', patience=22)]
+                     ModelCheckpoint('model_BiLSTMimprovement-{epoch:02d}-{map:.2f}.h5', monitor='map', verbose=1,
+                                     save_best_only=True, mode='max'),
+                     EarlyStopping(monitor='map', mode='max', patience=20)]
 
     training_model.fit(
         [questions_origin, question_related],
         Y,
-        epochs=1,
-        batch_size=80,
+        epochs=100,
+        batch_size=100,
         validation_data=([q_origin_dev_eb, q_related_dev_eb], l_dev),
         verbose=1,
         callbacks=callback_list
@@ -283,8 +290,7 @@ def train():
     training_model.summary()
 
 
-def test_model():
-    vocab = create_vocab_dict()
+def test_model(vocab):
     vocab_len = len(vocab)
 
     training_model = get_bilstm_model(vocab_len, vocab)
@@ -306,6 +312,7 @@ def test_model():
 
 
 # Run
-train()
-# test_model()
-
+vocab = create_vocab_dict()
+vocab_len = len(vocab)
+# training_model = get_bilstm_model(vocab_len, vocab)
+# print(training_model.summary())

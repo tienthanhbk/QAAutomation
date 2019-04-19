@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dad36d3-ac2d-4e58-91df-1f03b71e43f6" name="Default Changelist" comment="" />
+    <list default="true" id="8dad36d3-ac2d-4e58-91df-1f03b71e43f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/small-test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test-more-info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/embedding_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lstm-concat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convenion.py" beforeDir="false" afterPath="$PROJECT_DIR$/convenion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/dev.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic.py" beforeDir="false" afterPath="$PROJECT_DIR$/elastic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/27297934.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/search_result/27297934.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lstm.py" beforeDir="false" afterPath="$PROJECT_DIR$/bi-lstm-concat.py" afterDir="false" />
+    </list>
     <ignored path="gensim/model/baomoi.model.bin" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,14 +26,14 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/SearchEngine$searcher__1_.coverage" NAME="searcher (1) Coverage Results" MODIFIED="1551449874768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/QAAutomation$elastic.coverage" NAME="elastic Coverage Results" MODIFIED="1554974770086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QAAutomation$elastic.coverage" NAME="elastic Coverage Results" MODIFIED="1555421984907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SearchEngine$convenion.coverage" NAME="convenion Coverage Results" MODIFIED="1552877705465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SearchEngine$indexer.coverage" NAME="indexer Coverage Results" MODIFIED="1551021131634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SearchEngine$indexer__1_.coverage" NAME="indexer (1) Coverage Results" MODIFIED="1551746185804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SearchEngine$searcher.coverage" NAME="searcher Coverage Results" MODIFIED="1551021135838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SearchEngine$indexer_ngram.coverage" NAME="indexer_ngram Coverage Results" MODIFIED="1551021925774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/indexer" />
     <SUITE FILE_PATH="coverage/QAAutomation$classifier.coverage" NAME="classifier Coverage Results" MODIFIED="1553519415622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/QAAutomation$convenion.coverage" NAME="convenion Coverage Results" MODIFIED="1554974757761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QAAutomation$convenion.coverage" NAME="convenion Coverage Results" MODIFIED="1555423280143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SearchEngine$elastic.coverage" NAME="elastic Coverage Results" MODIFIED="1552964597313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/QAAutomation$doc2vec.coverage" NAME="doc2vec Coverage Results" MODIFIED="1554459382351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -96,55 +111,57 @@
     <session id="-326402606">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="8" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="48" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.10" value="10" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="3" />
-          <entry key="project.open.time.7" value="8" />
-          <entry key="project.open.time.8" value="6" />
-          <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.open.time.7" value="9" />
+          <entry key="project.open.time.8" value="9" />
+          <entry key="project.open.time.9" value="10" />
+          <entry key="project.opened" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="jl" value="1" />
-          <entry key="json" value="180" />
+          <entry key="json" value="199" />
           <entry key="kv" value="2" />
           <entry key="obb" value="1" />
-          <entry key="py" value="61" />
+          <entry key="py" value="107" />
           <entry key="tsv" value="1" />
-          <entry key="txt" value="70" />
+          <entry key="txt" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="180" />
+          <entry key="JSON" value="199" />
           <entry key="Julia" value="1" />
-          <entry key="PLAIN_TEXT" value="76" />
-          <entry key="Python" value="61" />
+          <entry key="PLAIN_TEXT" value="145" />
+          <entry key="Python" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="90" />
+          <entry key="Python Console" value="293" />
           <entry key="classifier" value="65" />
-          <entry key="dummy" value="4" />
+          <entry key="dummy" value="21" />
           <entry key="gitignore" value="1" />
           <entry key="json" value="777" />
-          <entry key="lstm" value="15" />
-          <entry key="py" value="8434" />
-          <entry key="txt" value="659" />
+          <entry key="lstm" value="136" />
+          <entry key="lstm2" value="446" />
+          <entry key="py" value="13718" />
+          <entry key="txt" value="714" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="777" />
-          <entry key="PLAIN_TEXT" value="664" />
-          <entry key="Python" value="8604" />
+          <entry key="PLAIN_TEXT" value="736" />
+          <entry key="Python" value="14658" />
         </counts>
       </usages-collector>
     </session>
@@ -152,22 +169,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/elastic.py">
+        <entry file="file://$PROJECT_DIR$/lstm-concat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="251" column="15" lean-forward="true" selection-start-line="251" selection-start-column="15" selection-end-line="251" selection-end-column="15" />
+            <state relative-caret-position="222">
+              <caret line="238" lean-forward="true" selection-start-line="238" selection-end-line="238" />
               <folding>
-                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -183,19 +191,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.</find>
-      <find>1</find>
-      <find>PATH_VOCAB</find>
-      <find>create_vocab_with_index</find>
-      <find>clean</find>
-      <find>get_modified_data</find>
-      <find>get_processed_data</find>
-      <find>from keras.preprocessing.sequence import pad_sequences</find>
-      <find>wordvector_dims</find>
-      <find>200</find>
       <find>26</find>
       <find>pad_sequences</find>
-      <find>map_score</find>
       <find>5753</find>
       <find>13</find>
       <find>1938</find>
@@ -207,13 +204,27 @@
       <find>51</find>
       <find>17</find>
       <find>44</find>
-      <find>0</find>
       <find>cko</find>
       <find>concatenate</find>
-      <find>print</find>
       <find>ATM</find>
       <find>&quot;relate_q_q&quot;: 2</find>
+      <find>import numpy as np\nimport pandas as pd\nimport convenion\nimport json\nimport glob\nimport os\.path\nimport pandas as pd\n\nfrom keras\.models import Sequential\nfrom keras\.layers import Dense\nfrom keras\.models import load_model\n\nfrom sklearn\.model_selection import train_test_split\n\nfrom gensim\.utils import simple_preprocess\nfrom gensim\.models\.doc2vec import TaggedDocument\, Doc2Vec\n\nfrom underthesea import word_tokenize\n\n\ndef train_model\(X_train\, y_train\, validation_data\)\:\n    \# Initialize the constructor\n    model \= Sequential\(\)\n\n    \# Add an input layer\n    model\.add\(Dense\(200\, activation\=\'relu\'\, input_shape\=\(400\,\)\)\)\n\n    \# Add one hidden layer\n    model\.add\(Dense\(100\, activation\=\'relu\'\)\)\n\n    \# Add an output layer\n    model\.add\(Dense\(1\, activation\=\'sigmoid\'\)\)\n\n    print\(\'Training classify model\.\.\'\)\n    model\.compile\(loss\=\'binary_crossentropy\'\,\n                  optimizer\=\'adam\'\,\n                  metrics\=\[\'accuracy\'\]\)\n\n    model\.fit\(X_train\, y_train\, validation_data\=validation_data\, epochs\=20\, batch_size\=1\, verbose\=1\)\n\n    model\.save\(\'model\/simple_classify_model\.h5\'\)  \# creates a HDF5 file \'my_model\.h5\'\n\n\ndef test_model\(\)\:\n    X_test \= np\.load\(\'model\/X_test\.npy\'\)\n    y_test \= np\.load\(\'model\/y_test\.npy\'\)\n    model \= load_model\(\'model\/simple_classify_model\.h5\'\)\n\n    y_pred \= model\.predict\(X_test\)\n    print\(y_pred\[\:10\]\)\n    score \= model\.evaluate\(X_test\, y_test\, verbose\=1\)\n    print\(score\)\n\n\#\n\# def raw_test_result\(\)\:\n\#\n\#\n\# def caculate_MAP\(\)\:\n\n\n\n\ndef raw_data\(path_regex\)\:\n    doc2vec_model \= Doc2Vec\.load\(\'gensim\/model\/question\.d2v\'\)\n    PATH_JUDGED_EXAMPLE \= \'elastic\/judged\/train\/17630743\-0\.43\-0\.86\-0\.98\.json\'\n\n    X_raw \= \[\]\n    y_raw \= \[\]\n\n    path_judgeds \= glob\.glob\(path_regex\)\n\n    for path_judged in path_judgeds\:\n        with open\(path_judged\, \'r\'\) as f\:\n            judged_result \= json\.load\(f\)\n\n            origin_question \= judged_result\[\'origin_question\'\]\n            org_q_vector \= doc2vec_model\.infer_vector\(simple_preprocess\(word_tokenize\(origin_question\, format\=\'text\'\)\)\)\n            org_q_vector \= np\.array\(org_q_vector\)\n\n            for hit in judged_result\[\'hits\'\]\:\n                judged_question \= hit\[\'question\'\]\n\n                judged_q_vector \= doc2vec_model\.infer_vector\(\n                    simple_preprocess\(word_tokenize\(judged_question\, format\=\'text\'\)\)\)\n                judged_q_vector \= np\.array\(judged_q_vector\)\n\n                concat_vector \= np\.concatenate\(\(org_q_vector\, judged_q_vector\)\)\n\n                label \= 0\n                if hit\[\'relate_q_q\'\] \=\= 1 or hit\[\'relate_q_q\'\] \=\= 2\:\n                    label \= 1\n\n                X_raw\.append\(concat_vector\)\n                y_raw\.append\(label\)\n\n    X_raw \= np\.array\(X_raw\)\n    y_raw \= np\.array\(y_raw\)\n    return X_raw\, y_raw\n\n\ndef save_raw_data\(\)\:\n    X_train\, y_train \= raw_data\(\'\.\/elastic\/judged\/train\/\*\.json\'\)\n    X_dev\, y_dev \= raw_data\(\'\.\/elastic\/judged\/dev\/\*\.json\'\)\n    X_test\, y_test \= raw_data\(\'\.\/elastic\/judged\/test\/\*\.json\'\)\n\n    print\(\'X_train len\: \'\, len\(X_train\)\)\n    print\(\'y_train len\: \'\, len\(y_train\)\)\n\n    print\(\'X_dev len\: \'\, len\(X_dev\)\)\n    print\(\'y_dev len\: \'\, len\(y_dev\)\)\n\n    print\(\'X_test len\: \'\, len\(X_test\)\)\n    print\(\'y_test len\: \'\, len\(y_test\)\)\n\n    np\.save\(\'model\/X_train\.npy\'\, X_train\)\n    np\.save\(\'model\/X_dev\.npy\'\, X_dev\)\n    np\.save\(\'model\/X_test\.npy\'\, X_test\)\n\n    np\.save\(\'model\/y_train\.npy\'\, y_train\)\n    np\.save\(\'model\/y_dev\.npy\'\, y_dev\)\n    np\.save\(\'model\/y_test\.npy\'\, y_test\)\n\n\ndef load_raw_data\(\)\:\n    X_train \= np\.load\(\'model\/X_train\.npy\'\)\n    X_dev \= np\.load\(\'model\/X_dev\.npy\'\)\n    X_test \= np\.load\(\'model\/X_test\.npy\'\)\n\n    y_train \= np\.load\(\'model\/y_train\.npy\'\)\n    y_dev \= np\.load\(\'model\/y_dev\.npy\'\)\n    y_test \= np\.load\(\'model\/y_test\.npy\'\)\n\n    print\(\'X_train len\: \'\, len\(X_train\)\)\n    print\(\'y_train len\: \'\, len\(y_train\)\)\n\n    print\(\'X_dev len\: \'\, len\(X_dev\)\)\n    print\(\'y_dev len\: \'\, len\(y_dev\)\)\n\n    print\(\'X_test len\: \'\, len\(X_test\)\)\n    print\(\'y_test len\: \'\, len\(y_test\)\)\n\n    return X_train\, X_dev\, X_test\, y_train\, y_dev\, y_test\n\n\ndef create_validation_data\(X_dev\, y_dev\)\:\n    validation_data \= \[\]\n    for sample\, label in zip\(X_dev\, y_dev\)\:\n        validation_data\.append\(\(sample\, label\)\)\n    return validation_data\n\n\# Split the data up in train and test sets\n\# X_train\, X_test\, y_train\, y_test \= train_test_split\(X\, y\, test_size\=0\.33\, random_state\=42\, shuffle\=True\)\n\#\n\# train_model\(X_train\, y_train\, X_test\, y_test\)\n\n\n\# X_train\, X_dev\, X_test\, y_train\, y_dev\, y_test \= load_raw_data\(\)\n\#\n\# validation_data \= create_validation_data\(X_dev\, y_dev\)\n\#\n\# train_model\(X_train\, y_train\, \(X_dev\, y_dev\)\)\n\# test_model\(\)\n\# load_raw_data\(\)\n\ndef raw_to_file\(\)\:\n    PATH_JUDGED_EXAMPLE \= \'elastic\/judged\/train\/17630743\-0\.43\-0\.86\-0\.98\.json\'\n    PATH_TRAIN_REGEX \= \'\.\/elastic\/judged\/train\/\*\.json\'\n    PATH_DEV_REGEX \= \'\.\/elastic\/judged\/dev\/\*\.json\'\n    PATH_TEST_REGEX \= \'\.\/elastic\/judged\/test\/\*\.json\'\n\n    path_judgeds \= glob\.glob\(PATH_TEST_REGEX\)\n    with open\(\'data\/test\.txt\'\, \'w\+\'\) as raw_file\:\n        for path_judged in path_judgeds\:\n            with open\(path_judged\, \'r\'\) as file_judged\:\n                judged_result \= json\.load\(file_judged\)\n\n                origin_question \= judged_result\[\'origin_question\'\]\n                id_origin_q \= judged_result\[\'id_query\'\]\n\n                for hit in judged_result\[\'hits\'\]\:\n                    judged_question \= hit\[\'question\'\]\n                    id_judged_q \= hit\[\'id\'\]\n                    score_search \= hit\[\'score\'\]\n                    label \= \'0\'\n                    if hit\[\'relate_q_q\'\] \=\= 3\:\n                        continue\n                    if hit\[\'relate_q_q\'\] \=\= 1 or hit\[\'relate_q_q\'\] \=\= 2\:\n                        label \= \'1\'\n\n                    \# test \= origin_question \+ \'\\t\' \+ judged_question \+ \'\\t\' \+ label\n                    \# print\(test\)\n                    raw_file\.write\(id_origin_q \+ \'\\t\' \+ origin_question \+ \'\\t\' \+ judged_question \+ \'\\t\' \+ label \+\n                                   \'\\t\' \+ str\(score_search\) \+ \'\\n\'\)\n    raw_file\.close\(\)\n\n\n\ndef evaluate_classify_model\(\)\:\n    test_df \= pd\.read_csv\(\'data\/test\.txt\'\,\n                          sep\=\'\\t\'\,\n                          header\=None\,\n                          names\=\[\'id\'\, \'origin_q\'\, \'compare_q\'\, \'label\'\, \'score_elastic\'\]\,\n                          \)\n    test_df\[\'predict\'\] \= 0\.01\n\n    doc2vec_model \= Doc2Vec\.load\(\'gensim\/model\/question\.d2v\'\)\n    classify_model \= load_model\(\'model\/simple_classify_model\.h5\'\)\n\n    for index\, row in test_df\.iterrows\(\)\:\n        origin_q \= row\[\'origin_q\'\]\n        compare_q \= row\[\'compare_q\'\]\n\n        origin_q_vector \= doc2vec_model\.infer_vector\(simple_preprocess\(word_tokenize\(origin_q\, format\=\'text\'\)\)\)\n        compare_q_vector \= doc2vec_model\.infer_vector\(simple_preprocess\(word_tokenize\(compare_q\, format\=\'text\'\)\)\)\n        concat_vector \= np\.concatenate\(\(origin_q_vector\, compare_q_vector\)\)\n        arr_wraper \= np\.array\(\[concat_vector\]\)\n\n        test_df\.at\[index\, \'predict\'\] \= classify_model\.predict\(arr_wraper\)\[0\]\[0\]\n\n    test \= test_df\.loc\[test_df\[\'id\'\] \=\= 22972022\]\n    test_sort \= test\.sort_values\(by\=\'predict\'\, ascending\=False\)\.reset_index\(drop\=True\)\n\n    id_queries \= \[\]\n    for id_query in test_df\[\'id\'\]\:\n        if id_query not in id_queries\:\n            id_queries\.append\(id_query\)\n\n    mAP_df \= pd\.DataFrame\(data\=id_queries\, columns\=\[\'id\'\]\)\n\n    score_AP_model_alls \= \[\]\n    score_AP_model_top10 \= \[\]\n    score_AP_elastic_alls \= \[\]\n    score_AP_elastic_top10 \= \[\]\n    for id_query in mAP_df\[\'id\'\]\:\n        group_id \= test_df\.loc\[test_df\[\'id\'\] \=\= id_query\]\n\n        \# Caculate mAP model\n        group_predict_sort \= group_id\.sort_values\(\n            by\=\'predict\'\,\n            ascending\=False\)\.reset_index\(drop\=True\)\n\n        AP_model_all \= convenion\.caculate_AP\(group_predict_sort\[\'label\'\]\)\n        AP_model_top10 \= convenion\.caculate_AP\(group_predict_sort\[\'label\'\]\[\:10\]\)\n\n        score_AP_model_alls\.append\(AP_model_all\)\n        score_AP_model_top10\.append\(AP_model_top10\)\n\n        \# Caculate mAP elastic search\n        group_elastic_sort \= group_id\.sort_values\(\n            by\=\'score_elastic\'\,\n            ascending\=False\)\.reset_index\(drop\=True\)\n        AP_elastic_all \= convenion\.caculate_AP\(group_elastic_sort\[\'label\'\]\)\n        AP_elastic_top10 \= convenion\.caculate_AP\(group_elastic_sort\[\'label\'\]\[\:10\]\)\n\n        score_AP_elastic_alls\.append\(AP_elastic_all\)\n        score_AP_elastic_top10\.append\(AP_elastic_top10\)\n\n    mAP_df\[\'AP_model_all\'\] \= score_AP_model_alls\n    mAP_df\[\'AP_model_top10\'\] \= score_AP_model_top10\n\n    mAP_df\[\'AP_elastic_all\'\] \= score_AP_elastic_alls\n    mAP_df\[\'AP_elastic_top10\'\] \= score_AP_elastic_top10\n\n    print\(\'mAP elastic all\: \'\, sum\(score_AP_elastic_alls\) \/ len\(score_AP_elastic_alls\)\)\n    print\(\'mAP model all\: \'\, sum\(score_AP_model_alls\) \/ len\(score_AP_model_alls\)\)\n    print\(\'mAP elastic top10\: \'\, sum\(score_AP_elastic_top10\) \/ len\(score_AP_elastic_top10\)\)\n    print\(\'mAP model top10\: \'\, sum\(score_AP_model_top10\) \/ len\(score_AP_model_top10\)\)\n\n    return mAP_df\n\n\n\# mAP_df \= evaluate_classify_model\(\)\n</find>
+      <find>sinh viên mua trả góp có được ưu đãi gì ko ạ!</find>
+      <find>8 MP của iphone 6 này với</find>
+      <find>\t</find>
+      <find>get_processed_data</find>
+      <find>vocab_pd['word']</find>
+      <find>test = vocab_pd['word']</find>
+      <find>0</find>
+      <find>words = vocab_pd['word']</find>
+      <find>convenion</find>
+      <find>get_and_preprocess_data</find>
+      <find>map_score</find>
+      <find>print</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -221,15 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/elastic/judged/train/19715911.json" />
-        <option value="$PROJECT_DIR$/elastic/judged/train/19800650.json" />
-        <option value="$PROJECT_DIR$/elastic/judged/train/19828558.json" />
-        <option value="$PROJECT_DIR$/elastic/judged/train/20013426.json" />
-        <option value="$PROJECT_DIR$/elastic/judged/train/20242370.json" />
-        <option value="$PROJECT_DIR$/elastic/judged/train/20314259.json" />
-        <option value="$PROJECT_DIR$/elastic/judged/train/20364735.json" />
-        <option value="$PROJECT_DIR$/elastic/judged/train/20388991.json" />
-        <option value="$PROJECT_DIR$/elastic/judged/train/20673784.json" />
         <option value="$PROJECT_DIR$/elastic/judged/train/20764876.json" />
         <option value="$PROJECT_DIR$/elastic/judged/train/20770043.json" />
         <option value="$PROJECT_DIR$/elastic/judged/train/20773674_more.json" />
@@ -269,9 +271,18 @@
         <option value="$PROJECT_DIR$/elastic/judged/dev/26190076-0.43-0.57-0.63.json" />
         <option value="$PROJECT_DIR$/elastic/judged/train/17630743-0.43-0.86-0.98.json" />
         <option value="$PROJECT_DIR$/elastic/judged/dev/20312572-0.48-0.64-0.64.json" />
-        <option value="$PROJECT_DIR$/convenion.py" />
-        <option value="$PROJECT_DIR$/elastic.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/data/dev.txt" />
+        <option value="$PROJECT_DIR$/logs/6.txt" />
+        <option value="$PROJECT_DIR$/embedding_layer.py" />
+        <option value="$PROJECT_DIR$/lstm.py" />
+        <option value="$PROJECT_DIR$/lstm2.py" />
+        <option value="$PROJECT_DIR$/bi-lstm-concat.py" />
+        <option value="$PROJECT_DIR$/classifier.py" />
+        <option value="$PROJECT_DIR$/convenion.py" />
+        <option value="$PROJECT_DIR$/data/small-test.txt" />
+        <option value="$PROJECT_DIR$/lstm-concat.py" />
+        <option value="$PROJECT_DIR$/elastic.py" />
       </list>
     </option>
   </component>
@@ -316,29 +327,7 @@
             <path>
               <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="lstm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="elastic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="bi-lstm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,11 +352,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/elastic/judged/dev" />
       <recent name="$PROJECT_DIR$/model/bi-lstm" />
       <recent name="$PROJECT_DIR$/gensim/model" />
-      <recent name="$PROJECT_DIR$/data/lstm" />
-      <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -382,7 +371,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.elastic">
+  <component name="RunManager" selected="Python.lstm2">
     <configuration name="asd" type="JULIA_RUN_CONFIG_ID" factoryName="Julia">
       <setting name="workingDir" value="$PROJECT_DIR$" />
       <setting name="targetFile" value="$PROJECT_DIR$/asd.jl" />
@@ -472,28 +461,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="doc2vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="QAAutomation" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gensim/doc2vec.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="elastic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="QAAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -529,7 +496,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lstm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bi-lstm-concat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lstm2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="QAAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lstm-concat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -542,17 +531,17 @@
       <item itemvalue="Julia.asd" />
       <item itemvalue="Python.convenion" />
       <item itemvalue="Python.elastic" />
-      <item itemvalue="Python.doc2vec" />
       <item itemvalue="Python.classifier" />
       <item itemvalue="Python.lstm" />
+      <item itemvalue="Python.lstm2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.elastic" />
+        <item itemvalue="Python.lstm2" />
         <item itemvalue="Python.convenion" />
+        <item itemvalue="Python.elastic" />
         <item itemvalue="Python.lstm" />
         <item itemvalue="Python.classifier" />
-        <item itemvalue="Python.doc2vec" />
       </list>
     </recent_temporary>
   </component>
@@ -784,13 +773,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="736" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3069467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15266559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32763976" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.2204969" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.23447205" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39596274" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -799,14 +789,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.25310558" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.3726708" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4983845" visible="true" weight="0.4937888" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.5694669" weight="0.39596274" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4983845" weight="0.5279503" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.5694669" visible="true" weight="0.17546584" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="JuliaSciView" order="3" weight="0.32956383" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.4628433" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.7075929" />
       <window_info anchor="right" id="Database" order="5" weight="0.32956383" />
       <window_info anchor="right" x="0" y="0" width="270" height="536" id="Documentation" order="6" side_tool="true" weight="0.20516963" />
     </layout>
@@ -860,6 +850,12 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/elastic.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -870,293 +866,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/24649324-0.61-0.74-0.89.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/24727080-0.63-0.90-0.95.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/24823523-0.80-0.98-1.00.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/25247019-0.15-0.22-0.24.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/25265350-0.32-0.49-0.75.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/25312437-0.71-0.91-0.99.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/25463221-0.24-0.51-0.70.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/26040780-0.52-0.78-0.88.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/26142934-0.68-0.89-0.99.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/search_result/27297934.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/search_result/30399436.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/search_result/judged_exp_0.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/27116102-0.65-0.81-0.95.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/27050153-0.67-0.87-0.91.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/26737730-0.24-0.22-0.24.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/26712921-0.39-0.46-0.52.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/26657899-0.51-0.76-0.86.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/26441131-0.59-0.95-1.00.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/27278998-0.68-0.93-1.00.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/test/20052701-0.66-0.76-0.71.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1010" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/test/25502086-0.85-0.91-0.95.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/test/20463029-0.52-0.79-0.98.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/19533137-0.03-0.00-0.00.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="110" column="6" lean-forward="true" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/judged_exp_1.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/test/17687631-0.69-0.88-1.00.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/22531140-0.69-0.86-0.91.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9030">
-          <caret line="602" column="23" selection-start-line="602" selection-start-column="23" selection-end-line="602" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/23389135-0.35-0.50-0.60.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22995">
-          <caret line="1533" column="30" selection-start-line="1533" selection-start-column="30" selection-end-line="1533" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/25406703-0.87-0.99-1.00.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/25717169-0.33-0.65-0.67.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21465">
-          <caret line="1431" column="6" selection-start-line="1431" selection-start-column="6" selection-end-line="1431" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/25946259-0.37-0.55-0.78.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21225">
-          <caret line="1415" column="6" selection-start-line="1415" selection-start-column="6" selection-end-line="1415" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/26190076-0.43-0.57-0.63.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="1403" column="23" lean-forward="true" selection-start-line="1403" selection-start-column="23" selection-end-line="1403" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/17630743-0.43-0.86-0.98.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="445" column="21" lean-forward="true" selection-start-line="445" selection-start-column="21" selection-end-line="445" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/17755505-0.54-0.82-0.99.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/19925776-0.76-0.97-1.00.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="1447" column="6" lean-forward="true" selection-start-line="1447" selection-start-column="6" selection-end-line="1447" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/20312572-0.48-0.64-0.64.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="502" column="22" selection-start-line="502" selection-start-column="22" selection-end-line="502" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/18754773-0.37-0.61-0.83.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/24864749-0.81-0.98-1.00.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/19886795-0.51-0.61-0.59.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/19886795-0.30-0.47-0.47.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/25946259-0.37-0.55-0.78.json" />
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/26190076-0.43-0.57-0.63.json" />
+    <entry file="file://$PROJECT_DIR$/elastic/judged/train/17630743-0.43-0.86-0.98.json" />
+    <entry file="file://$PROJECT_DIR$/elastic/judged/train/17755505-0.54-0.82-0.99.json" />
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/19925776-0.76-0.97-1.00.json" />
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/20312572-0.48-0.64-0.64.json" />
+    <entry file="file://$PROJECT_DIR$/elastic/judged/train/18754773-0.37-0.61-0.83.json" />
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/24864749-0.81-0.98-1.00.json" />
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/19886795-0.51-0.61-0.59.json" />
     <entry file="file://$PROJECT_DIR$/elastic/judged/dev/26190076-0.32-0.48-0.55.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/dev26190076-0.41-0.57-0.63.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/dev19886795-0.74-0.93-1.00.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/test/20052701-0.65-0.75-0.71.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/test/17687631-0.54-0.83-1.00.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/test/22972022-0.54-0.82-1.00.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-907" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/convenion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="80" column="50" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/dev26190076-0.41-0.57-0.63.json" />
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/dev19886795-0.74-0.93-1.00.json" />
     <entry file="file://$PROJECT_DIR$/elastic/judged/train/18754773-0.00-0.00-0.00.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-418" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/lstm/test_lstm.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/dev.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -1165,12 +892,211 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/test-more-info.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/test/17687631-0.54-0.83-1.00.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/test/20052701-0.65-0.75-0.71.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/test/20463029-0.18-0.27-0.30.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/test/22110626-0.77-0.77-0.85.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/test/22723540-0.60-0.68-0.88.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/test/22972022-0.54-0.82-1.00.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/test/23777833-0.01-0.00-0.00.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/test/24308119-0.38-0.43-0.37.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dump.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="685" selection-start-line="685" selection-end-line="685" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lstm/vectors.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lstm/vocab_all.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="540" column="24" selection-start-line="540" selection-start-column="24" selection-end-line="540" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/embedding_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/24864749-0.71-0.97-1.00.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-943" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="108" column="34" lean-forward="true" selection-start-line="108" selection-start-column="34" selection-end-line="108" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1502" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="109" column="23" lean-forward="true" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="409" column="24" lean-forward="true" selection-start-line="409" selection-start-column="24" selection-end-line="409" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/underthesea/word_tokenize/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dev.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convenion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="1771" column="20" lean-forward="true" selection-start-line="1771" selection-start-column="20" selection-end-line="1771" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/20312572-0.43-0.58-0.63.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/19925776-0.24-0.34-0.38.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/19886795-0.30-0.47-0.47.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/keras/layers/recurrent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="943" column="6" selection-start-line="943" selection-start-column="6" selection-end-line="943" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bi-lstm-concat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4440">
+          <caret line="309" column="4" selection-start-line="309" selection-start-column="4" selection-end-line="310" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/small-test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2655">
+          <caret line="177" column="109" selection-start-line="177" selection-start-column="109" selection-end-line="177" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8610">
+          <caret line="574" selection-start-line="574" selection-end-line="751" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/train/17630743-0.09-0.15-0.20.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="232" lean-forward="true" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/elastic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="251" column="15" lean-forward="true" selection-start-line="251" selection-start-column="15" selection-end-line="251" selection-end-column="15" />
+        <state relative-caret-position="58">
+          <caret line="60" column="47" lean-forward="true" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/search_result/27297934.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lstm-concat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="238" lean-forward="true" selection-start-line="238" selection-end-line="238" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
