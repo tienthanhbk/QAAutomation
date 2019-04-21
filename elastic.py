@@ -204,11 +204,12 @@ def caculate_AP(path, strict, dict_path):
         arr_denote_all = []
         arr_denote_top30 = []
         arr_denote_top10 = []
-
+        num_related = 0
         for hit in hits:
-            if hit['relate_q_q'] == 3:
+            if hit['relate_q_q'] == 3 or hit['relate_q_q'] == 0:
                 continue
             elif hit['relate_q_q'] == 2:
+                num_related += 1
                 arr_denote_all.append(1)
 
                 if len(arr_denote_top30) < 30:
@@ -218,6 +219,7 @@ def caculate_AP(path, strict, dict_path):
                     arr_denote_top10.append(1)
 
             elif hit['relate_q_q'] == 1 and not strict:
+                num_related += 1
                 arr_denote_all.append(1)
 
                 if len(arr_denote_top30) < 30:
@@ -234,11 +236,11 @@ def caculate_AP(path, strict, dict_path):
 
                 if len(arr_denote_top10) < 10:
                     arr_denote_top10.append(0)
-
-        newname = '{}-{:.2f}-{:.2f}-{:.2f}.json'.format(search_result['id_query'],
-                                             convenion.caculate_AP(arr_denote_all),
-                                             convenion.caculate_AP(arr_denote_top30),
-                                             convenion.caculate_AP(arr_denote_top10))
+        newname = '{}-{:.2f}-{:.2f}-{:.2f}-{:d}.json'.format(search_result['id_query'],
+                                                            convenion.caculate_AP(arr_denote_all),
+                                                            convenion.caculate_AP(arr_denote_top30),
+                                                            convenion.caculate_AP(arr_denote_top10),
+                                                            num_related)
         print(newname)
         os.rename(path, dict_path + '/' + newname)
         return convenion.caculate_AP(arr_denote_all)
@@ -262,4 +264,4 @@ def caculate_mAP(dict_path, strict=False):
 
 
 # statistic_search_result()
-caculate_mAP('elastic/judged/train', strict=False)
+caculate_mAP('elastic/judged/tmp', strict=False)
