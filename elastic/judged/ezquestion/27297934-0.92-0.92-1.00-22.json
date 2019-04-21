@@ -179,7 +179,7 @@
       "field_search": "question",
       "question": "chơi lq 30p thì mất khoảng bao nhiêu pin vại , chơi pubg 30p thì hao nhiêu pin cấu hình max ở 2 game lun nha",
       "answer": "Chào bạn,Mình ước tính máy chơi 2 game này mất khoảng 17% pin, và đây chỉ là thời gian mình ước tính, thực tế sử dụng sẽ khác tùy vào tình trạng máy bạn nha.Chia sẻ cùng bạn!",
-      "relate_q_q": 0
+      "relate_q_q": 1
     },
     {
       "score": 17.732273,
@@ -187,15 +187,15 @@
       "field_search": "question",
       "question": "Sao máy nay chơi game nhanh hết pin vậy mình chơi game liên quân liên tục máy chỉ trụ đc gần 4 tiếng",
       "answer": "Chào anh, Trường hợp này đối với sản phẩm trên nếu anh sử dụng chơi game liên quân liên tục đạt được thời gian sử dụng 4h thì sản phẩm anh đang được sử dụng rất tốt đó anh nhé. Anh yên tâm sử dụng sản phẩm nha anh.Thông tin đến anh!",
-      "relate_q_q": 0
+      "relate_q_q": 1
     },
     {
       "score": 17.560719,
       "id": "21226546",
       "field_search": "question",
-      "question": "Pin chơi liên tục khoảng bao nhiêu giờ",
+      "question": "Pin chơi game liên tục khoảng bao nhiêu giờ",
       "answer": "Chào bạn, Với dung lượng Pin 1810 MAH, màn hình 4.7 INCH cho thời gian sử dụng liên tục ước tính khoảng 2.5-3 GIỜ. Tuy nhiên, nhu cầu sử dụng thực tế sẽ thay đổi khác nhau phụ thuộc nhiều yếu tố như: Ứng dụng chạy nền, độ sáng màn hình, Wifi hay 3G, hoặc sử dụng tác vụ nặng như chơi Game sẽ hao Pin hơn bạn nhé. Thân chào bạn!",
-      "relate_q_q": 0
+      "relate_q_q": 2
     },
     {
       "score": 17.47063,
@@ -203,7 +203,7 @@
       "field_search": "question",
       "question": "Máy này chơi game ổn ko vậy",
       "answer": "Chào bạn,Cấu hình máy Iphone 6 chơi game khá tốt và ổn bạn nhé. Thông tin đến bạn !",
-      "relate_q_q": 0
+      "relate_q_q": -1
     },
     {
       "score": 17.282696,
@@ -211,7 +211,7 @@
       "field_search": "question",
       "question": "Máy này coi YouTube lướt web thì tầm bao nhiêu giờ mới hết pin ạ.",
       "answer": "Chào anh , Dạ máy dùng liên tục được khoảng 4-5 giờ tùy kết nối mạng anh dùng nhé. Thông tin đến anh .",
-      "relate_q_q": 0
+      "relate_q_q": -1
     },
     {
       "score": 17.197489,
@@ -219,7 +219,7 @@
       "field_search": "question",
       "question": "Pin trên ios 11 dùng bao lâu cho việc lướt web , Facebook , xem phim không chơi game cho 1 ngày ạ ? Còn nếu dùng chơi game liên tục thì dùng đc khoảng bao lâu ?",
       "answer": "Chào bạn Trường hợp nếu bạn sử dụng ít thì dùng được khoảng từ 7h sáng đến 19h tối , còn nếu bạn sử dụng liên tục thì Pin dùng được khoảng 4h - 5h bạn nhé .Thông tin đến bạn .",
-      "relate_q_q": 0
+      "relate_q_q": -1
     },
     {
       "score": 17.195782,
@@ -227,7 +227,7 @@
       "field_search": "question",
       "question": "Máy sài được mấy giờ thì hết pin ạ",
       "answer": "Chào bạn,Máy sử dụng liên tục được khoảng 4h, tùy vào cách dùng máy của bạn như thế nào và tình trạng máy ra sao mà sẽ có sự chênh lệch tương ứng bạn nhé. Thông tin đến bạn !",
-      "relate_q_q": 0
+      "relate_q_q": -1
     },
     {
       "score": 17.080887,
@@ -235,7 +235,7 @@
       "field_search": "question",
       "question": "Nếu mà minh sử dụng liên tục thì pin của mình duy trì được không nhiêu giờ vậy ad mong tư vấn khi chơi game với lượt wed luôn ạ",
       "answer": "Chào bạn,Sản phẩm iPhone 6 có thể sử dụng liên tục khoảng hơn 3h phụ thuộc vào ứng dụng, độ sáng màn hình, kết nối mạng,...Với nhu cầu sử dụng cơ bản (ít sử dụng) thì máy có thể đáp ứng tốt 1-1.5 ngày dùng ạ. Và tùy vào nhu cầu, cách sử dụng sản phẩm của mỗi người, mà thời gian sẽ có chênh lệch ít nhiều bạn nhé. Thân chào bạn !",
-      "relate_q_q": 0
+      "relate_q_q": 1
     },
     {
       "score": 17.01813,
@@ -243,7 +243,7 @@
       "field_search": "question",
       "question": "Cho mình hỏi pin nếu dùng bình thường không chơi game thì tầm bao lâu sạc lại ?",
       "answer": "Chào bạn, Bạn vui lòng cung cấp thêm thông tin cho mình là bạn dùng bình thường là dùng các ứng dụng nào , dùng tần suất dùng như thế nào để mình giúp bạn nhé. Mong phản hồi từ bạn  !",
-      "relate_q_q": 0
+      "relate_q_q": -1
     },
     {
       "score": 16.900976,
