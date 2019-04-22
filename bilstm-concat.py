@@ -19,7 +19,7 @@ PATH_DATA_DEV = 'data/dev.txt'
 PATH_DATA_TEST = 'data/test.txt'
 PATH_DATA_TEST_SMALL = 'data/small-test.txt'
 PATH_WORD_VECTOR = 'data/lstm/vectors.txt'
-PATH_VOCAB = 'data/lstm/vocab_all.txt'
+PATH_VOCAB = 'data/lstm/vocab_used.txt'
 wordvector_dims = 200
 
 

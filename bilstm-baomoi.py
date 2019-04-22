@@ -19,7 +19,7 @@ PATH_DATA_DEV = 'data/small-test.txt'
 PATH_DATA_TEST = 'data/small-test.txt'
 PATH_DATA_TEST_SMALL = 'data/small-test.txt'
 PATH_WORD_VECTOR = 'data/lstm/vectors_baomoi.txt'
-PATH_VOCAB = 'data/lstm/vocab_baomoi.txt'
+PATH_VOCAB = 'data/lstm/vocab_used.txt'
 wordvector_dims = 400
 
 
@@ -212,13 +212,23 @@ def get_model(vocab_df):
     # load the whole words embedding into memory
     word_vector = get_word_vectors()
 
-    # Create a weight matrix for words in vocab
+    # Create a weight matrix for words in vocab (words in vocab is words used in data)
     # Row i is vector for word indexed i in vocab
     # words = vocab_df.index.values
     # when one-hot word, 0 is padding value and not have in vocab
+    # If word in vocab is not have pretrain vector, generate random vector
     embedding_weights = np.zeros((len(vocab_df) + 1, wordvector_dims), dtype=float)
+    word_not_have_pretrain = 0
+    word_have_pretrain = 0
     for word, row in vocab_df.iterrows():
-        embedding_weights[row['onehot']] = word_vector.get(word)
+        if word in word_vector:
+            word_have_pretrain += 1
+            embedding_weights[row['onehot']] = word_vector.get(word)
+        else:
+            word_not_have_pretrain += 1
+            embedding_weights[row['onehot']] = np.random.uniform(-1, 1, wordvector_dims)
+    print('word have pretrain: ', word_have_pretrain)
+    print('word not have pretrain: ', word_not_have_pretrain)
 
     org_q_input = Input(shape=(150,))
     related_q_input = Input(shape=(150,))

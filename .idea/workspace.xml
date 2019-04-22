@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dad36d3-ac2d-4e58-91df-1f03b71e43f6" name="Default Changelist" comment="Split ez question&#10;&#10;(cherry picked from commit 82edd6b841a644dcb9a37fc66e05159e261abc03)&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;elastic.py" />
+    <list default="true" id="8dad36d3-ac2d-4e58-91df-1f03b71e43f6" name="Default Changelist" comment="Split ez question&#10;&#10;(cherry picked from commit 82edd6b841a644dcb9a37fc66e05159e261abc03)&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;elastic.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilstm-baomoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilstm-baomoi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilstm-concat.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilstm-concat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/bi-lstm-concat-old.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash/bi-lstm-concat-old.py" afterDir="false" />
+    </list>
     <ignored path="gensim/model/baomoi.model.bin" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,8 +101,8 @@
     <session id="-326402606">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="53" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="54" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="10" />
           <entry key="project.open.time.11" value="3" />
@@ -107,8 +112,8 @@
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="10" />
           <entry key="project.open.time.8" value="10" />
-          <entry key="project.open.time.9" value="11" />
-          <entry key="project.opened" value="59" />
+          <entry key="project.open.time.9" value="12" />
+          <entry key="project.opened" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -118,7 +123,7 @@
           <entry key="json" value="246" />
           <entry key="kv" value="2" />
           <entry key="obb" value="1" />
-          <entry key="py" value="135" />
+          <entry key="py" value="138" />
           <entry key="tsv" value="1" />
           <entry key="txt" value="166" />
           <entry key="xml" value="1" />
@@ -129,47 +134,35 @@
           <entry key="JSON" value="246" />
           <entry key="Julia" value="1" />
           <entry key="PLAIN_TEXT" value="172" />
-          <entry key="Python" value="135" />
+          <entry key="Python" value="138" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="294" />
+          <entry key="bilstm-baomoi" value="15" />
           <entry key="classifier" value="65" />
-          <entry key="dummy" value="28" />
+          <entry key="dummy" value="37" />
           <entry key="gitignore" value="1" />
           <entry key="json" value="778" />
           <entry key="lstm" value="136" />
           <entry key="lstm2" value="476" />
-          <entry key="py" value="14209" />
+          <entry key="py" value="14508" />
           <entry key="txt" value="789" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="778" />
-          <entry key="PLAIN_TEXT" value="818" />
-          <entry key="Python" value="15180" />
+          <entry key="PLAIN_TEXT" value="827" />
+          <entry key="Python" value="15494" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bilstm-concat.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="160" column="28" lean-forward="true" selection-start-line="160" selection-start-column="28" selection-end-line="160" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -180,8 +173,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>51</find>
-      <find>17</find>
       <find>44</find>
       <find>cko</find>
       <find>concatenate</find>
@@ -206,9 +197,11 @@
       <find>PATH_DATA_TEST_SMALL</find>
       <find>random</find>
       <find>nan</find>
-      <find>PATH_VOCAB</find>
       <find>wordvector_dims</find>
       <find>map_score</find>
+      <find>PATH_VOCAB</find>
+      <find>vocab_df</find>
+      <find>PATH_WORD_VECTOR</find>
       <find>get_word_vectors</find>
     </findStrings>
     <replaceStrings>
@@ -270,8 +263,8 @@
         <option value="$PROJECT_DIR$/elastic.py" />
         <option value="$PROJECT_DIR$/trash/bi-lstm-concat-old.py" />
         <option value="$PROJECT_DIR$/convenion.py" />
-        <option value="$PROJECT_DIR$/bilstm-baomoi.py" />
         <option value="$PROJECT_DIR$/bilstm-concat.py" />
+        <option value="$PROJECT_DIR$/bilstm-baomoi.py" />
       </list>
     </option>
   </component>
@@ -306,6 +299,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,11 +307,31 @@
               <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="elastic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="elastic" type="462c0819:PsiDirectoryNode" />
+              <item name="judged" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="trash" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,7 +369,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lstm2">
+  <component name="RunManager" selected="Python.bilstm-baomoi">
     <configuration name="asd" type="JULIA_RUN_CONFIG_ID" factoryName="Julia">
       <setting name="workingDir" value="$PROJECT_DIR$" />
       <setting name="targetFile" value="$PROJECT_DIR$/asd.jl" />
@@ -405,9 +419,6 @@
       <module name="QAAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -515,6 +526,9 @@
       <module name="QAAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -541,9 +555,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bilstm-baomoi" />
         <item itemvalue="Python.lstm2" />
         <item itemvalue="Python.convenion" />
-        <item itemvalue="Python.bilstm-baomoi" />
         <item itemvalue="Python.lstm" />
         <item itemvalue="Python.classifier" />
       </list>
@@ -806,7 +820,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="736" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31502423" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32471728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -820,15 +834,15 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.25310558" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.3726708" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4983845" visible="true" weight="0.7049689" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.5694669" weight="0.29192546" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4983845" weight="0.096273296" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.5694669" visible="true" weight="0.060559005" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="JuliaSciView" order="3" weight="0.32956383" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.6898223" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.6760905" />
       <window_info anchor="right" id="Database" order="5" weight="0.32956383" />
       <window_info anchor="right" x="0" y="0" width="270" height="536" id="Documentation" order="6" side_tool="true" weight="0.20516963" />
     </layout>
@@ -1038,23 +1052,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/lstm/vocab_all.txt">
+    <entry file="file://$PROJECT_DIR$/data/lstm/vocab_used.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/train.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="7168" column="105" selection-start-line="7168" selection-start-column="105" selection-end-line="7168" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trash/bi-lstm-concat-old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="106" selection-start-line="106" selection-end-line="113" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1097,26 +1101,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="229" lean-forward="true" selection-start-line="229" selection-end-line="229" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bilstm-baomoi.py">
+    <entry file="file://$PROJECT_DIR$/bilstm-concat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="20" />
+        <state relative-caret-position="876">
+          <caret line="146" column="16" lean-forward="true" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="16" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bilstm-concat.py">
+    <entry file="file://$PROJECT_DIR$/trash/bi-lstm-concat-old.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="160" column="28" lean-forward="true" selection-start-line="160" selection-start-column="28" selection-end-line="160" selection-end-column="28" />
+        <state relative-caret-position="222">
+          <caret line="148" column="94" selection-start-line="148" selection-start-column="53" selection-end-line="148" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bilstm-baomoi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="314" lean-forward="true" selection-start-line="314" selection-end-line="314" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
