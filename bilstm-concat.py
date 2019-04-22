@@ -11,6 +11,7 @@ from keras import regularizers
 from keras.preprocessing.sequence import pad_sequences
 from keras.layers.embeddings import Embedding
 import re
+import random
 
 
 PATH_DATA_TRAIN = 'data/train.txt'
@@ -54,7 +55,7 @@ def get_and_preprocess_data(path, separator='\t\t\t'):
     return data_df
 
 
-def onehot_data(vocab_df, data_df, padding=True, maxlen=150):
+def onehot_data(vocab_df, data_df, padding=True, maxlen=70):
     # Return ( org_q_onehot_list, related_q_onehot_list, label_list )
     # org_q_onehot_list: [ nparr[38, 85, 104, ...], ... ] ~ [ sequence_onehot_org_q, ... ]
     # [38, 85, 104, ...] represent a sentence; 38, 85, 54 represent a word (sequence_onehot_org_q)
@@ -80,6 +81,8 @@ def onehot_data(vocab_df, data_df, padding=True, maxlen=150):
                 # sequence_onehot_org_q.append(0)
 
                 # Other case: generate random number, it represent random word in vocab
+                # rand_index = random.randint(0,len(vocab_df) - 1)
+                # sequence_onehot_org_q = np.append(sequence_onehot_org_q, vocab_df.iloc[rand_index]['onehot'])
 
         org_q_onehot_list.append(sequence_onehot_org_q)
 
@@ -154,8 +157,8 @@ class AnSelCB(Callback):
     #     self.val_y = y
     #     self.val_inputs = inputs
 
-    def __init__(self, val_data, dev_data=None):
-        super().__init__()
+    def __init__(self, val_data, dev_data=None, test_data=None):
+        # super().__init__()
         self.val_q = val_data[0]
         self.val_s = val_data[1]
         self.val_y = val_data[2]
@@ -171,6 +174,16 @@ class AnSelCB(Callback):
             self.dev_y = dev_data[2]
             self.dev_inputs = dev_data[3]
 
+        self.test_q = None
+        self.test_s = None
+        self.test_y = None
+        self.test_inputs = None
+        if test_data is not None:
+            self.test_q = test_data[0]
+            self.test_s = test_data[1]
+            self.test_y = test_data[2]
+            self.test_inputs = test_data[3]
+
     def on_epoch_end(self, epoch, logs={}):
         val_pred = self.model.predict(self.val_inputs)
         val_map__, val_mrr__ = map_score(self.val_q, self.val_s, val_pred, self.val_y)
@@ -184,6 +197,13 @@ class AnSelCB(Callback):
             print('dev MRR %f; dev MAP %f' % (dev_mrr__, dev_map__))
             logs['dev_mrr'] = dev_mrr__
             logs['dev_map'] = dev_map__
+
+        if self.test_inputs is not None:
+            test_pred = self.model.predict(self.test_inputs)
+            test_map__, test_mrr__ = map_score(self.test_q, self.test_s, test_pred, self.test_y)
+            print('test MRR %f; test MAP %f' % (test_mrr__, test_map__))
+            logs['test_mrr'] = test_mrr__
+            logs['test_map'] = test_map__
 
 
 def get_model(vocab_df):
@@ -231,31 +251,41 @@ def get_model(vocab_df):
 def train(vocab_df):
     train_data_df = get_and_preprocess_data(PATH_DATA_TRAIN, separator='\t')
     dev_data_df = get_and_preprocess_data(PATH_DATA_DEV, separator='\t')
+    test_data_df = get_and_preprocess_data(PATH_DATA_TEST, separator='\t')
 
     train_org_q_onehot_list, train_related_q_onehot_list, train_label_list = onehot_data(vocab_df, train_data_df,
                                                                                          padding=True, maxlen=150)
     dev_org_q_onehot_list, dev_related_q_onehot_list, dev_label_list = onehot_data(vocab_df, dev_data_df,
                                                                                    padding=True, maxlen=150)
+    test_org_q_onehot_list, test_related_q_onehot_list, test_label_list = onehot_data(vocab_df, test_data_df,
+                                                                                   padding=True, maxlen=150)
 
     dev_org_q_list = dev_data_df['org_q'].values
     dev_related_q_list = dev_data_df['related_q'].values
 
-    train_org_q_list = dev_data_df['org_q'].values
-    train_related_q_list = dev_data_df['related_q'].values
+    train_org_q_list = train_data_df['org_q'].values
+    train_related_q_list = train_data_df['related_q'].values
+
+    test_org_q_list = test_data_df['org_q'].values
+    test_related_q_list = test_data_df['related_q'].values
 
     callback_val_data = [dev_org_q_list,
                          dev_related_q_list,
                          dev_label_list,
                          [dev_org_q_onehot_list, dev_related_q_onehot_list]]
-    callback_dev_data = [train_org_q_list,
-                         train_related_q_list,
-                         train_label_list,
-                         [train_org_q_onehot_list, train_related_q_onehot_list]]
+    callback_train_data = [train_org_q_list,
+                           train_related_q_list,
+                           train_label_list,
+                           [train_org_q_onehot_list, train_related_q_onehot_list]]
+    callback_test_data = [test_org_q_list,
+                          test_related_q_list,
+                          test_label_list,
+                         [test_org_q_onehot_list, test_related_q_onehot_list]]
 
-    callback_list = [AnSelCB(callback_val_data, callback_dev_data),
+    callback_list = [AnSelCB(callback_val_data, callback_train_data, callback_test_data),
                      ModelCheckpoint('model_LSTM-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map', verbose=1,
                                      save_best_only=True, mode='max'),
-                     EarlyStopping(monitor='val_map', mode='max', patience=10)]
+                     EarlyStopping(monitor='val_map', mode='max', patience=20)]
 
     model = get_model(vocab_df)
 
@@ -264,8 +294,8 @@ def train(vocab_df):
     model.fit(
         [train_org_q_onehot_list, train_related_q_onehot_list],
         Y,
-        epochs=3,
-        batch_size=7378,
+        epochs=100,
+        batch_size=160,
         validation_data=([dev_org_q_onehot_list, dev_related_q_onehot_list], dev_label_list),
         verbose=1,
         callbacks=callback_list
@@ -298,5 +328,5 @@ vocab_df = pd.read_csv(PATH_VOCAB, sep='\t', index_col=1, header=None, names=['o
 vocab_df['onehot'] += 1
 
 # get_model(vocab_df)
-# train(vocab_df)
+train(vocab_df)
 # test(vocab_df)

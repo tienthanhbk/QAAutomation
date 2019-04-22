@@ -91,7 +91,7 @@ def get_search_result(query_obj, page=0, size=10, field_search="question", **kwa
 
 
 def raw_query_pool():
-    with open('./query_pool.json') as f:
+    with open('elastic/query_pool.json') as f:
         queries = json.load(f)
         print("Current queries len: ", len(queries))
         print("\n")
@@ -108,7 +108,7 @@ def raw_query_pool():
 
         user_judge = ''
 
-        while (len(arr_id) != 100) and (user_judge != '0'):
+        while (len(arr_id) != 250) and (user_judge != '0'):
             qa_checking = random.choice(arr_question_source)
             if qa_checking['id_cmt'] in arr_id_checked:
                 continue
@@ -129,12 +129,12 @@ def raw_query_pool():
             print("Current queries len: ", len(queries))
             print("\n")
 
-        with open('./query_pool.json', 'w') as outfile:
+        with open('elastic/query_pool.json', 'w') as outfile:
             json.dump(queries, outfile)
 
 
 def search_by_query_pool():
-    with open('./elastic/query_pool.json') as f:
+    with open('elastic/query_pool.json') as f:
         queries = json.load(f)
         for query_obj in queries:
             if query_obj['searched'] != 0:
@@ -263,5 +263,7 @@ def caculate_mAP(dict_path, strict=False):
     print('sort: ', np.sort(nparr_AP))
 
 
+# raw_query_pool()
+# search_by_query_pool()
 # statistic_search_result()
 caculate_mAP('elastic/judged/tmp', strict=False)
