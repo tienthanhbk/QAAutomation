@@ -340,5 +340,5 @@ vocab_df = pd.read_csv(PATH_VOCAB, sep='\t', index_col=1, header=None, names=['o
 vocab_df['onehot'] += 1
 
 # get_model(vocab_df)
-# train(vocab_df)
+train(vocab_df)
 # test(vocab_df)
