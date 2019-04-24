@@ -14,8 +14,8 @@ import re
 import random
 
 
-PATH_DATA_TRAIN = 'data/train.txt'
-PATH_DATA_DEV = 'data/dev.txt'
+PATH_DATA_TRAIN = 'data/train-small.txt'
+PATH_DATA_DEV = 'data/dev-small.txt'
 PATH_DATA_TEST = 'data/test.txt'
 PATH_DATA_TEST_SMALL = 'data/small-test.txt'
 PATH_WORD_VECTOR = 'data/lstm/vectors.txt'
@@ -194,7 +194,7 @@ class AnSelCB(Callback):
         if self.dev_inputs is not None:
             dev_pred = self.model.predict(self.dev_inputs)
             dev_map__, dev_mrr__ = map_score(self.dev_q, self.dev_s, dev_pred, self.dev_y)
-            print('dev MRR %f; dev MAP %f' % (dev_mrr__, dev_map__))
+            print('train MRR %f; train MAP %f' % (dev_mrr__, dev_map__))
             logs['dev_mrr'] = dev_mrr__
             logs['dev_map'] = dev_map__
 
@@ -282,7 +282,7 @@ def train(vocab_df):
                           test_label_list,
                          [test_org_q_onehot_list, test_related_q_onehot_list]]
 
-    callback_list = [AnSelCB(callback_val_data, callback_train_data, callback_test_data),
+    callback_list = [AnSelCB(callback_val_data, callback_train_data),
                      ModelCheckpoint('model_LSTM-{epoch:02d}-{val_map:.2f}.h5', monitor='val_map', verbose=1,
                                      save_best_only=True, mode='max'),
                      EarlyStopping(monitor='val_map', mode='max', patience=20)]
@@ -328,5 +328,5 @@ vocab_df = pd.read_csv(PATH_VOCAB, sep='\t', index_col=1, header=None, names=['o
 vocab_df['onehot'] += 1
 
 # get_model(vocab_df)
-train(vocab_df)
+# train(vocab_df)
 # test(vocab_df)

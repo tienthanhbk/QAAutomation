@@ -213,7 +213,7 @@ def raw_to_file(strict=False, tokenize=False, separator='\t\t\t'):
     raw_file.close()
 
 
-raw_to_file(strict=False, tokenize=True, separator='\t')
+# raw_to_file(strict=False, tokenize=True, separator='\t')
 
 
 def evaluate_classify_model():

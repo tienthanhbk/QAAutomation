@@ -199,6 +199,7 @@ def caculate_AP(path, strict, dict_path):
     # strict: True or False. If True, only question related masked 2 is considered relevan
     # dict_path: dictionary path. Used for rename file json. Use not very offend
     with open(path, 'r') as f:
+        print(path)
         search_result = json.load(f)
         hits = search_result['hits']
         arr_denote_all = []
@@ -241,7 +242,7 @@ def caculate_AP(path, strict, dict_path):
                                                             convenion.caculate_AP(arr_denote_top30),
                                                             convenion.caculate_AP(arr_denote_top10),
                                                             num_related)
-        print(newname)
+        # print(newname)
         os.rename(path, dict_path + '/' + newname)
         return convenion.caculate_AP(arr_denote_all)
 

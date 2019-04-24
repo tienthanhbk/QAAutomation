@@ -1,0 +1,1433 @@
+{
+  "id_query": "24845569",
+  "total": 12047,
+  "total_current": 200,
+  "max_score": 40.331337,
+  "origin_question": "Có mở  khoa bằng  khuôn mặt ko",
+  "hits": [
+    {
+      "score": 18.515123,
+      "id": "26715107",
+      "field_search": "question",
+      "question": "có nhận diện khuôn mặt hay dấu vân tay dc ko",
+      "answer": "Chào bạn,Điện thoại iPhone 6 có hỗ trợ bảo mật vân tay, nhưng không hỗ trợ mở khoá khuôn mặt bạn nhé.Thân chào bạn !",
+      "relate_q_q": 2
+    },
+    {
+      "score": 16.780865,
+      "id": "28942820",
+      "field_search": "question",
+      "question": "iPhone 6 16 gb có nhận diện khuôn mặt được không",
+      "answer": "Chào bạn,Dạ rất tiếc máy không hỗ trợ tính năng này ạ. Xin thông tin đến bạn.",
+      "relate_q_q": 2
+    },
+    {
+      "score": 13.626482,
+      "id": "22325849",
+      "field_search": "question",
+      "question": "Cho hỏi lam sao mở khoa màn hình bằng cách vuốt màn hình va nút tu chối cuộc gọi đến z cam ơn",
+      "answer": "Chào bạn, Điện thoại này bạn phải nhấn nút Home để vào màn hình chứ không vuốt được nữa bạn nhé. Hệ điều hành iOS 10 trở lên đã không còn vuốt mở màn hình nữa nhé bạn .Thông tin đến bạn .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 13.070277,
+      "id": "27059341",
+      "field_search": "question",
+      "question": "Cho minh hoi cây iphone6 này làm thê nao chỉ mở khoa bằng vân tay thôi bỏ nhập số hoặc chữ đi dươc vây.",
+      "answer": "Chào bạn,Rất tiếc đây là mặc định máy và không bỏ đi được bạn nha. Thông tin đến bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 12.191945,
+      "id": "26042136",
+      "field_search": "question",
+      "question": "trả tiền mặt có được giảm 1 triệu như trả bằng thẻ ko ạ?",
+      "answer": "Chào chị, Hiện tại sản phẩm này giá gốc thì có khuyến mãi là Giảm ngay 1 triệu khi thanh toán trực tuyến bằng thẻ JCB (không áp dụng mua trả góp) chị nha , còn dùng tiền mặt thì không hỗ trợ chị nhé , nhưng chị đặt mua online sản phẩm này trên web và thanh toán bằng tiền mặt thì sản phẩm này đang có giá ưu đãi là 7.990.000₫ chị nhé, chị có thể đặt mua online trên web ạ . Thông tin đến chị.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 11.64527,
+      "id": "26398673",
+      "field_search": "question",
+      "question": "trả bằng tiền mặt có được giảm 1 tr không",
+      "answer": "Chào chị ! Dạ em rất tiếc không được nha chị, ưu đãi giảm ngay 1 triệu chỉ áp dụng khi chị thanh toán trực tuyến bằng thẻ JCB (không áp dụng mua trả góp) nha chị.Mong nhận được phản hồi từ chị.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 11.4718485,
+      "id": "26358576",
+      "field_search": "question",
+      "question": "Giảm ngay 1tr bằng trả tiền mặt còn mua dc chứ có thẻ gì đó thì ko có",
+      "answer": "Chào anh, Vâng hiện tại sản phẩm Điện thoại iPhone 6 32GB này anh đang quan tâm thì nếu anh không có thanh toán thẻ JCB thì bên em có hỗ trợ Phiếu mua hàng Apple Watch S3 GPS trị giá 1 triệu (không cộng nhiều phiếu trên 1 sản phẩm) anh nhé, nếu anh quan tâm sản phầm anh vui lòng cho em xin thông tin địa chỉ hiện tại của anh để em kiểm tra hàng tại khu vực anh nhé.Mong phản hồi từ anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 11.265363,
+      "id": "21748510",
+      "field_search": "question",
+      "question": "Cho em hỏi 20/4/2003 được mua bằng tiền mặt đc ko",
+      "answer": "Chào anh,Hiện tại bên em hỗ trợ kinh doanh máy cho tất cả các khách hàng không kể độ tuổi anh nhé. Anh có thể đến siêu thị để bên em hỗ trợ cho anh bình thường anh nha.Thân gửi anh !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 10.630024,
+      "id": "27757575",
+      "field_search": "question",
+      "question": "Nếu mua luôn bằng tiền mặt thì có được giảm k ạh",
+      "answer": "Chào chị ! Chị có thể tham gia dùng số điện thoại để nhận mã giảm giá từ 3% đến 5% nha chị, sau đó mình đặt mua sản phẩm với mã giảm giá nhận được nha.Thông tin đến chị.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 10.356812,
+      "id": "20113201",
+      "field_search": "question",
+      "question": "Giảm 1tr bằng thẻ ngân hàng nào vậy mua tiền 💲mặt có được không",
+      "answer": "Chào anh,Giảm thêm 1.000.000đ khi thanh toán trực tuyến bằng MasterCard nha anh. Anh mua tiền mặt sẽ không được giảm anh nhé.Chia sẻ cùng anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 10.229249,
+      "id": "30747712",
+      "field_search": "question",
+      "question": "iPhone cua minh mình khoa nhiều giờ ko vào đc",
+      "answer": "Chào anh Trên máy giờ hiển thị thông báo gì vậy ạ ?Mong nhận được thông tin phản hồi từ anh để bên mình tư vấn chính xác nhất nhé .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 10.226311,
+      "id": "27472353",
+      "field_search": "question",
+      "question": "Mặt lưng làm bằng kim loại hay nhựa vậy",
+      "answer": "Chào anh, Với sản phẩm này mặt lưng bằng kim loại anh nha , anh vui lòng cho em biết khu vực ( tỉnh , quận , huyện ) bên em sẽ kiểm tra xem còn hàng không giúp anh nhé .Mong sớm nhận được phản hồi từ anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 10.221855,
+      "id": "18566420",
+      "field_search": "question",
+      "question": "Mặt trước có mầu đen ko bạn",
+      "answer": "Chào anh Minh!Dạ với sản phẩm Điện thoại iPhone 6 32GB có màu vàng đồng thì mặt trước sẽ có màu trắng đó anh nhé.Chia sẻ cùng anh! ",
+      "relate_q_q": -1
+    },
+    {
+      "score": 10.094046,
+      "id": "24922717",
+      "field_search": "question",
+      "question": "May nay mo khoa van tay 1cham dc ko ban",
+      "answer": "Chào bạn,Điện thoại iPhone 6 không hỗ trợ cài đặt cảm biến vân tay 1 chạm bạn nhé.Thân chào bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.978033,
+      "id": "17728893",
+      "field_search": "question",
+      "question": "Iphon 6 S mo khoa van tay 1 chạm ko vay",
+      "answer": "Chào anh Tính,Với sản phẩm này thì hỗ trợ khóa vân tay 1 chạm đó anh.Thông tin đến anh!",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.911751,
+      "id": "19386083",
+      "field_search": "question",
+      "question": "ip6 có mặt kính cường lực ko ạ",
+      "answer": "Chào anh,Điện thoại iPhone 6 32GB này được trang bị mặt Kính oleophobic (ion cường lực) anh nhéThông tin đến anh !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.91118,
+      "id": "26668718",
+      "field_search": "question",
+      "question": "Ko biết có bản mà mặt trước màu đen ko ạ, nếu ko thì sản phẩm iphone nào có mặt trước màu đen ạ thanks ad",
+      "answer": "Chào anh,Rất tiếc là bên em chưa có bản mặt trước màu đen ạ,mong anh thông cảm, anh vui lòng tham khảo thêm Điện thoại  hiện có mặt trước màu đen anh nhé, Anh có thể cho em xin thêm thông tin (quận, huyện, tỉnh) mà mình có thể đến mua sản phẩm để em kiểm tra hiện còn hàng hay không ạ?Mong phản hồi sớm từ anh!",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.68731,
+      "id": "18613542",
+      "field_search": "question",
+      "question": "Ip 6 của em để trên mặt bàn ấn vân tay K mở khoá đc là có bị dì K qtv",
+      "answer": "Chào bạn, Trường hợp này thì có thể do bạn để vị trí ngón tay không được trùng với cảm biến nên bạn đặt vị trí ngón tay lại và lau sạch tay và cảm biến xem sao nha bạn. Thân chào bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.55226,
+      "id": "27112853",
+      "field_search": "question",
+      "question": "Cho minh hỏi iphon 6 cài trượt de mo khoa DC ko",
+      "answer": "Chào bạn,Dạ với phiên bản iOS mới thì sẽ không cài đặt được trượt để mở khóa bạn nhé.Xin thông tin đến bạn!",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.528118,
+      "id": "26519151",
+      "field_search": "question",
+      "question": "Cho em hỏi : mua máy tại TGDD trả bằng tiền mặt có được PMH 1 triệu khi mua online trừ vào sản phẩm ko vậy ?",
+      "answer": "Chào anh,Dạ hiện tại không có khuyến mãi phiếu mua hàng 1 triệu khi mua online anh nha. Nếu anh đặt mua online thì sẽ được giảm ngay 1 triệu, từ vào giá máy đó ạ. Anh có thể đặt hàng và ra siêu thị nhận hàng nha.Thông tin đến anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.492825,
+      "id": "24732089",
+      "field_search": "question",
+      "question": "comment trên FB bằng Pc thì có biểu tượng cảm xúc ( mặt cười này nọ ko phải nhãn dán) sao trên ip 6 ko có nhỉ ( chỉ có nhãn dán ko có biểu tượng cảm xúc )",
+      "answer": "Chào bạn,Trường hợp này thì trên Facebook iPhone không hỗ trợ nha bạn. Bạn phải nhớ ký hiểu biểu tượng và gõ vào ( ví dụ : bạn gõ \"\" sẽ ra mặt cười bạn nhé.Thân chào bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.458674,
+      "id": "22225786",
+      "field_search": "question",
+      "question": "Cho hỏi ip 32g mua ở tgdd thanh toán bằng tiền mặt giá bao nhiêu",
+      "answer": "Chào anh,Dạ chỉ cần đặt trước online trên website thì khi đến siêu thị máy sẽ được giảm giá còn 8.490.000₫, anh thanh toán với tiền mặt được ạ.Anh quan tâm vui lòng cho em xin số điện thoại để Thegioididong.com liên hệ hỗ trợ đặt mua nhé.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.445832,
+      "id": "21587880",
+      "field_search": "question",
+      "question": "iP6 có thể khóa và mở các ứng dụng bằng vân tay được không ạ???",
+      "answer": "Chào bạn iPhone không hỗ trợ khóa và mở ứng dụng bằng vân tay bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.41849,
+      "id": "24275048",
+      "field_search": "question",
+      "question": "Bên mình có thay mặt kính camera ko ad",
+      "answer": "Chào chị,Dạ. Rất tiếc hiện tại bên em chưa hỗ trợ thay mặt kính camera hay sửa chữa máy ạ, tuy nhiên nếu chị mua sản phẩm tại Thegioididong.com thì bên em sẽ hỗ trợ chuyển máy lên hãng giúp chị ạ và hãng sẽ báo giá cho chị nhé !!Thông tin đến chị ạ !!",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.369638,
+      "id": "20066473",
+      "field_search": "question",
+      "question": "Mình muốn mở khóa bằng vân tay, thì phải mở nút nguồn để máy sáng lên thì mình mới mở khóa bằng vân tay được? tại sao v ạ? cho mình cách khắc phục được k? thanks.",
+      "answer": "Chào bạn, Điện thoại này dùng vân tay 2 chạm , bạn phải mở sáng màn hình mới dùng được vân tay .Thiết kế của máy là như vậy bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.218219,
+      "id": "24799798",
+      "field_search": "question",
+      "question": "Cái iphone 5s cua em sao mở 4g no dựt pin chóng mặt vậy ad nóng nữa",
+      "answer": "Chào bạn Trường hợp này đó là mặc định bạn nha , khi bạn sử dụng 4G thì máy sẽ hao Pin rất là nhanh ạ .Thông tin đến bạn .",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.1441345,
+      "id": "20523638",
+      "field_search": "question",
+      "question": "Thanh toán tiền mặt có khuyến mãi ko v add",
+      "answer": "Chào anhnếu anh thanh toán bằng tiền mặt thì sẽ có Cơ hội trúng xe SH 150i (Hà Nội và miền Bắc)  nha. Anh Vui lòng Thông tin khu vực đang sống (quận/huyện) để bên mình kiểm tra siêu thị còn hàng giúp nhé. Mong phản hồi từ anh.",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.126804,
+      "id": "25194999",
+      "field_search": "question",
+      "question": "Con này phải mở màn hình trước thì mới mở khóa màn hình bằng Touch ID được đúng không ?",
+      "answer": "Chào bạn, Đúng rồi bạn iPhone 6 phải mở sáng màn hình thì mới sử dụng được vân tay nha bạn.Xin thông tin đến bạn ạ !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.066021,
+      "id": "31273893",
+      "field_search": "question",
+      "question": "Shop mk có dán mặt sau vs dán camera ip6 ko ah",
+      "answer": "Chào chị,Rất tiếc bên em chỉ hỗ trợ dán mặt sau chưa hỗ trợ dán camera chị nhé, chị ghé siêu thị Thegioididong.com gần nhất bên em dán cho chị nhaThân gửi chị!",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.036303,
+      "id": "25717169",
+      "field_search": "question",
+      "question": "Cho hỏi tgdd có mở khoá iTunes ko ạ",
+      "answer": "Chào bạn,Nếu bạn đề cập đến khóa iCloud thì bên mình không hỗ trợ. Mong bạn thông cảm ạ ! Thân chào bạn !",
+      "relate_q_q": -1
+    },
+    {
+      "score": 9.026721,
+      "id": "29619831",
+      "field_search": "question",
+      "question": "cho mình hỏi là khi để mặt sau của máy xuống đấu thì mặt sau và camera có bị trầy ko?",
+      "answer": "Chào bạn,Sản phẩm iPhone 6 32GB camera được bảo vệ bởi viền nên bạn có thể an tâm và camera máy sẽ không bị ảnh hưởng nha bạn. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.916587,
+      "id": "25704521",
+      "field_search": "question",
+      "question": "ac cho e  hoi may cua e imel xxxx98068251386 co khoa icloud khong a tai bi vo man hinh dinh mang ra tgdd sua ma khong biet truoc day co cai khoa icloud ko",
+      "answer": "Chào bạn, Hiện không còn cách nào kiểm tra tình trạng iCloud của máy ngoài cách vào điện thoại kiểm tra cả bạn nhé. Tình trạng này bạn có thể dành chút thời gian mang máy đến trung tâm bảo hành Apple ủy quyền để các nhân viên kỹ thuật trực tiếp cầm máy và kiểm tra cho bạn . Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.886641,
+      "id": "21630000",
+      "field_search": "question",
+      "question": "S iPhone 6 of e ko mở đèn flash khi có cuộc gọi đi z?? E thử mở r nhưng ko đc",
+      "answer": "Chào bạn.Dạ xin lỗi mình chưa hiểu rõ câu hỏi của bạn cho lắm vui lòng cung cấp thêm thông tin rõ hơn để mình có thể hỗ trợ cho bạn tốt hơn nhé. Mong nhận phản hồi từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.820425,
+      "id": "25306917",
+      "field_search": "question",
+      "question": "Qtv chỉ dùm mỡ nút khoa màn hình. Thank",
+      "answer": "Chào bạn, xin lỗi đã để bạn đợi lâu nhé Nếu bạn muốn nói tới bật nút home ảo, Bạn vui lòng tham khảo bài viết   bạn nhé Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.783719,
+      "id": "26375068",
+      "field_search": "question",
+      "question": "Nếu mình trả thẳng bằng tiền mặt thì giá bao nhiêu bạn,có được trừ từ tiền km ko bạn,nếu ko trừ mình nghĩ lại,còn trừ sáng mai mua sớm luôn",
+      "answer": "Chào anh ! Anh mua trả thẳng máy iPhone 6 32GB thì nếu anh có thẻ JCB khi anh thanh toán trực tuyến sẽ được giảm 1 triệu nha anh và có khuyến mãi nữa là Phiếu mua hàng Apple Watch S3 GPS trị giá 1 triệu (không cộng nhiều phiếu trên 1 sản phẩm) nha anh.Mong nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.778213,
+      "id": "26359828",
+      "field_search": "question",
+      "question": "Bên TGDĐ có hỗ trợ mở khóa icloud ko ạ",
+      "answer": "Chào bạnBạn cho mình xin thông tin bạn quên mật khẩu Icloud thay hay như thế nào để bên mình kiểm tra hỗ trợ giúp bạn nhé.Thân chào bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.654066,
+      "id": "29430903",
+      "field_search": "question",
+      "question": "Cho e hỏi có màu bạc mặt trước viền trắng ko a",
+      "answer": "Chào anh!Dạ hiện bên em chỉ có màu vàng đồng thôi ạ. Nếu được anh có thể cho em xin thông tin khu vực cụ thể (quận/huyện) để em hỗ trợ kiểm tra xem còn hàng không ạ.Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.654066,
+      "id": "21934498",
+      "field_search": "question",
+      "question": "thegioididong có dán cả mặt sau và cạnh bên iPhone 6 ko?",
+      "answer": "Chào anh, Bên em có dán mặt sau cho sản phẩm anh nha, còn cạnh bên thì anh vui lòng ra siêu thị để nhân viên bên em kiểm tra và hỗ trợ nêu được anh nha.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.653335,
+      "id": "26148597",
+      "field_search": "question",
+      "question": "A7 2017 có led thông báo chuyển màu mặt trước ko ạ",
+      "answer": "Chào bạn,Điện thoại Samsung Galaxy A7 (2017) không hỗ trợ đèn Led thông báo bạn nhé.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.587431,
+      "id": "22266446",
+      "field_search": "question",
+      "question": "cho e hỏi nếu ko có bằng lái xe thì có có thể thay thế bằng gì khác ko ạ",
+      "answer": "Chào anh,Dạ mình dùng hộ khẩu thay cho bằng lái xe được ạ.Anh quan tâm vui lòng cho em xin số điện thoại để Thegioididong.com liên hệ hỗ trợ đặt mua nhé.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.547406,
+      "id": "21433242",
+      "field_search": "question",
+      "question": "Thegioididong có thay mặt kính k?",
+      "answer": "Chào anh,Thegioididong.com không có dịch vụ thay mặt kính cho máy anh nha. Anh hãy liên hệ Trung tâm bảo hành Hãng để được hỗ trợ nhéThông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.531741,
+      "id": "20972342",
+      "field_search": "question",
+      "question": "Mang hinh khoa ip6 plus bi vay la s",
+      "answer": "Mong bạn cung cấp thêm thông tin cụ thể về vấn đề bạn đang gặp phải để bên mình có thể hỗ trợ bạn được tốt hơn nhé vì mình chưa hiểu ý bạn lắm.Mong nhận được phản hồi từ bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.520907,
+      "id": "29843994",
+      "field_search": "question",
+      "question": "Mở khóa màn hình bằng cách trượt cài ở đâu ad sao k thấy.",
+      "answer": "Chào anh,Máy không còn chức năng trượt để mở khóa nữa anh nhé.Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.500711,
+      "id": "22268462",
+      "field_search": "question",
+      "question": "cho e hỏi nếu ko có bằng lái xe thì có thể thay thế bằng gì khác ko ạ",
+      "answer": "Chào anh,Dạ mình dùng hộ khẩu thay cho bằng lái xe được ạ.Anh quan tâm vui lòng cho em xin số điện thoại để Thegioididong.com liên hệ hỗ trợ đặt mua nhé.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.47821,
+      "id": "29359212",
+      "field_search": "question",
+      "question": "QTV cho mình hỏi, khi nào mở khóa màn hình thì Iphone 6  yêu cầu nhập mật khẩu thay cho việc mở bằng vân tay?",
+      "answer": "Chào bạn,Khi máy mới khởi động lại thì iphone sẽ yêu cầu nhập mật khẩu thay cho vân tay bạn nhé Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.445487,
+      "id": "22770251",
+      "field_search": "question",
+      "question": "Ko có bằng láy xe góp dc ko z",
+      "answer": "Chào anh, Anh vui lòng cho em xin thông tin anh có Hộ khẩu gốc (Hộ khẩu photo nguyên cuốn và công chứng không quá 3 tháng) không ạ? để bên em có hỗ trợ tư vấn tốt hơn anh nhé.Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.426106,
+      "id": "23218351",
+      "field_search": "question",
+      "question": "Cho e hoi QTV iPhone 16GB mặt sau có chữ iPhone ko vậy",
+      "answer": "Chào anh Quỳnh,Dạ rất tiếc bên em không có kinh doanh máy Iphone bản 16Gb nên kk thể hỗ trợ thông tin chính xác đến mình được anh nhé.Chia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.380731,
+      "id": "21132199",
+      "field_search": "question",
+      "question": "sao mình mở khoá bằng vân tai thì màn hình hiện lên là \" đã mở khoá \" nhưng không ra màn hình chính mà phải nhấn thêm 1 cái nữa nó mới ra là bị sao vậy , có cách khắc phục ko",
+      "answer": "Chào bạn, Trường hợp này do bạn mở sáng màn hình điện thoại lên và vuốt sang bên tay phải (không phải ở giao diện chính của điện thoại) nên sẽ có thông báo trên nên bạn vuốt sang bên tay trái để về lại giao diện chính là có thể sử dụng vân tay để mở khóa bình thường nha bạn.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.3155,
+      "id": "26477565",
+      "field_search": "question",
+      "question": "ip6 có hỗ trợ mở khóa màn hình 1 chạm ko ad?",
+      "answer": "Chào bạn, Máy không có chức năng mở khóa màn hình 1 chạm bạn nhé.Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.306832,
+      "id": "31359699",
+      "field_search": "question",
+      "question": "Cho mình hỏi có cho vay tiền mặt trả góp ko vay",
+      "answer": "Chào anh, Dạ hiện tại bên em không hỗ trợ vay tiền mặt anh nhé, anh có thể liên hệ với công ty tài chính để được hỗ trợ vay tiền mặt ạ. Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.286253,
+      "id": "18296084",
+      "field_search": "question",
+      "question": "Ip6 này có cảm.biến vân tay ko? Cảm biến mở máy nhanh ko",
+      "answer": "Chào bạn, iPhone 6 có hỗ trợ cảm biến vân tay và cảm biến mở máy khá nhanh nha bạn.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.212538,
+      "id": "27487115",
+      "field_search": "question",
+      "question": "Mua online tiền mặt giá 6690k, có đc km thêm pmh 500k ko? Thnks!",
+      "answer": "Chào chị, Hiện có khuyến mãi là MUA ONLINE GIÁ RẺ: 6.690.000₫ chị nha , và giá này không áp dụng các khuyến mãi khác kèm theo chị nhé . Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.17349,
+      "id": "21984050",
+      "field_search": "question",
+      "question": "Ở tgdd có chạy lên ios11 ko bằng máy tính ko",
+      "answer": "Chào chị, Trường hợp này nếu sản phẩm chị có hỗ trợ bản cập nhật IOS 11 qua OTA thì bên em sẽ hỗ trợ nâng cấp lên giúp chị đó chị nha.Thông tin đến chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.098091,
+      "id": "19741005",
+      "field_search": "question",
+      "question": "Tgdd có thay mặt kính ip6 k,",
+      "answer": "Chào anh !  Rất tiếc hiện Thegioididong.com không hỗ trợ thay mặt kính anh nha. Nếu anh mua sản phẩm tại Thegioididong.com thì anh có thể mang đến siêu thị để bên em chuyển trung tâm bảo hành của Hãng hỗ trợ thay và báo phí đến anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.095745,
+      "id": "23594175",
+      "field_search": "question",
+      "question": "E đang muốn mua đt ko biết chủ nhật tgdd có mở cửa ko",
+      "answer": "Chào anh !  Chủ Nhật bên em vẫn hỗ trợ làm việc bình thường anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.089629,
+      "id": "29401231",
+      "field_search": "question",
+      "question": "Cho mình hỏi .. shop có thay mặt kính camera sau ip6 ko ạ ?",
+      "answer": "Chào anh Dạ rất tiếc bên em không thay mặt kính Camera ạ anh vui lòng liên hệ với hãng để được hỗ trợ anh nhé.Thông tin đến anh",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.081505,
+      "id": "21449724",
+      "field_search": "question",
+      "question": "Mua tiền mặt có giảm không",
+      "answer": "Chào anh.Điện thoại iPhone 6 32GB hiện bên em không có chương trình giảm giá kèm theo khi thanh toán tiền trực tiếp tiền mặt đó anh nhé. Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.038774,
+      "id": "17554982",
+      "field_search": "question",
+      "question": "Khi nào có mặt tai thanh hoá vậy",
+      "answer": "Chào anh Minh,Hiện em chưa có thông tin về thời điểm máy trên sẽ có hàng ở Thanh Hóa nhưng anh có thể đặt hàng để sớm được nhận máy trong thời gian từ 1-7/4 anh nha! Anh có thể để lại số điện thoại tại đây để bên em hỗ trợ anh đặt hàng và cọc máy nhé! Mong phản hồi sớm từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 8.029769,
+      "id": "28858817",
+      "field_search": "question",
+      "question": "Cho mình hỏi lúc trước mình có mua iPhone 6 ở TGDD giờ mình quen mat khẩu mở khóa giờ có cách nào mở đc ko vay",
+      "answer": "Chào bạn,Bạn vui lòng tham khảo bài viết  bạn nhé  Lưu ý: dữ liệu trên máy của bạn sẽ bị xóa toàn bộ, và bạn cần phải nhớ mật khẩu icloud để đăng nhập vào máy nếu máy có tài khoản icloud bạn nhé Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.9780874,
+      "id": "18417006",
+      "field_search": "question",
+      "question": "Cái này kết nối HDMI chỗ nào bạn ? Bằng cáp hay ko dây, nếu bằng cáp thì TGDD có bán ko",
+      "answer": "Chào bạn, Điện thoại iPhone 6 32GB này có hỗ trợ kết nối với adapter HDMI chuyên dụng .Bạn tham khảo tại nhé .Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.953114,
+      "id": "26224165",
+      "field_search": "question",
+      "question": "Bằng lái xe máy có trả góp dc ko",
+      "answer": "Chào anh Hiện anh cần phải có thêm CMND gốc thì mới có thể trả góp anh nhé. Hiện anh cho em xin mức trả trước (10%-70%) và số tháng góp (3-24 tháng) mong muốn được không ạ?  Mong nhận phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.92134,
+      "id": "21981088",
+      "field_search": "question",
+      "question": "Sao tự nhiên táo của em nó mở nhạc ko lên tiếng phải mở lại mấy lầm mấy có tiếng zạy anh mới mua có mấy bũa hà",
+      "answer": "Chào bạn Quốc Khánh,Trường hợp  không biết là bạn nghe nhạc bằng ứng dụng bên thứ 3 hay là ứng dụng nghe nhạc mặc định của máy vậy bạn. Nếu bạn dùng các ứng dụng bên thứ 3 thì có thể xảy ra tình trạng không tương thích tốt với máy nên xảy ra tình trạng trên đó ạ. Bạn thử dùng nhiều ứng dụng nghe nhạc khác nhau để tìm cho mình một ứng dụng ưng ý nhất bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.904926,
+      "id": "22298105",
+      "field_search": "question",
+      "question": "có trả góp bằng thẻ tín dụng ko tgdd",
+      "answer": "Chào chị Kim,Hiện sản phẩm này không áp dụng trả góp qua thẻ tín dụng ạ, mong chị thông cảm, mình tham gia trả góp qua công ty tài chính được không chị. Chị quan tâm vui lòng thông tin khu vực quận/huyện sinh sống để em kiểm tra có hàng không nhé.Mong phản hồi sớm từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.904926,
+      "id": "19534329",
+      "field_search": "question",
+      "question": "e có cmnd + bằng lái xe đc ko ad",
+      "answer": "Chào anh Văn,Có CMND, GPLX và đủ 20 tuổi là mua góp được rồi nhé. Anh có thể tham khảo gói lãi suất 1.75% của HOMECREDIT, trả trước 50%(4.495.000₫), góp khoảng 613.000₫/tháng và góp trong 9 tháng. Nếu cảm thấy gói lãi suất này phù hợp anh có thể để lại thông tin số điện thoại bên em sẽ liên hệ hỗ trợ làm hồ sơ trả góp Online giúp anh nhé.  Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.9026856,
+      "id": "22745336",
+      "field_search": "question",
+      "question": "Ad cho e hỏi bên mình có hổ trợ thay mặt kính đt ip ko zây Nêu có thì cho e hỏi thay mặt kính ip 6 giá bao nhiêu ad",
+      "answer": "Chào chị,Rất tiếc Thegioididong.com không có dịch vụ thay Mặt kính iPhone chị nha. Chị hãy liên hệ Trung tâm bảo hành Hãng để được hỗ trợ nhéThông tin đến chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.89108,
+      "id": "21157609",
+      "field_search": "question",
+      "question": "Em ko hỉu lắm về cái icoul ip vì máy ip mở khóa bằng vân tay nhưng tại sao phải cần icoul ms mờ khóa dc ạ",
+      "answer": "Chào bạn,Mở vân tay là mở khóa màn hình khi máy còn hoạt động bình thường, còn Icloud là khóa khi mất máy và khi đó máy không thể mở màn hình rồi mở vân tay nũa mà máy đã bị khóa bằng Icloud và vô hiệu hóa hoạt động - chỉ khi có tài khoản Icloud mới mở được.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.8834963,
+      "id": "25430744",
+      "field_search": "question",
+      "question": "Nếu em quên mã pin ở TGDD có hỗ trợ mở khoá ko ạh",
+      "answer": "Chào bạn, Rất tiếc là bên mình không hỗ trợ restore iphone để mở khóa ở siêu thị, Bạn vui lòng tham khảo bài viết  xem có khắc phục được không bạn nhé  Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.85859,
+      "id": "31640532",
+      "field_search": "question",
+      "question": "iPhone 6 không tắt nhạc được ở màn hình khoa là sao ?",
+      "answer": "Chào bạn,Dạ bạn vui lòng cung cấp thêm thông tin là máy báo lỗi hay gặp tình trạng ra sao vậy ạ, để mình có thể hỗ trợ cho bạn tốt hơn nhé . Mong nhận được phản hồi từ bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.847217,
+      "id": "22983014",
+      "field_search": "question",
+      "question": "14t mua ip6 trả tiền mặt mua₫c ko ạ",
+      "answer": "Chào anh,Dạ được anh nhé. Anh có thể cho em biết khu vực anh đang ở em sẽ giúp anh kiểm tra và đặt hàng anh nhé.Mong chờ phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.821501,
+      "id": "28969217",
+      "field_search": "question",
+      "question": "Cho mình hỏi điện thoại của mình bị vỡ mặt kính giờ mình muốn dán kính cươngf lực vào thì có cần phải sửa lại mặt kính rồi ms dán ko ạ???",
+      "answer": "Chào anh,Anh nên sửa lại Mặt kính rồi hãy dán Kính cường lực vào nha. Nếu anh mua Điện thoại tại Thegioididong.com thì bên em sẽ hỗ trợ chuyển Hãng để thay giúp anh nhé.Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.7859106,
+      "id": "22485182",
+      "field_search": "question",
+      "question": "Cho e hỏi Iphone 6 plus mua tiền mặt giá nhiu ak , có giảm giá ko ak",
+      "answer": "Chào chị,Giá Điện thoại iPhone 6 32GB là 8.990.000₫ và Thegioididong.com không có chương trình giảm giá với sản phẩm chị nhé, nếu quan tâm sản phẩm chị vui lòng cho em xin số điện thoại để đặt hàng cho chị.Thông tin tới chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.7135754,
+      "id": "20594490",
+      "field_search": "question",
+      "question": "Cho mình hỏi iphone6 32 có mở khóa vân tay ko bạn vì mình ko thấy ghi",
+      "answer": "Chào bạn,Máy có hỗ trợ vân tay và mở khóa vân tay bạn nha.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.6772146,
+      "id": "27711197",
+      "field_search": "question",
+      "question": "Cho em hỏi hiện tại iphone của em quên mật khẩu rồi mà giờ đem lên tgdd mở đc ko ạ . Em vẫn nhớ id apple và password có mở đc ko .",
+      "answer": "Chào bạn,Dạ mình có một cách là cho restore máy đó ạ; nhưng bạn phải chắc chắn iCloud mình đang dùng chính chủ nữa đó ạ; bạn có thể thử mang máy đến lại siêu thị để bên mình xem kỹ lại xem có thể hỗ trợ được không bạn nhé; cần phải xem trực tiếp để xác định chính xác hơn ạ.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.6509247,
+      "id": "23654478",
+      "field_search": "question",
+      "question": "Mình có một thắc mắc về chức năng mở khoá bằng vân tay của chiếc điện thoại iphone 6 này, đó là mình chỉ cần lấy ngón tay (đã quét nhận vân tay) chạm vào phím home là có thể mở khoá hay mình phải nhấn vào phím home thì mới mở khoá được?",
+      "answer": "Chào bạn,Điện thoại iPhone 6 chỉ hỗ trợ mở khoá vân tay khi màn hình đã mở lên rồi nha, tắt màn hình chạm vào sẽ không mở được vân tay bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.6454115,
+      "id": "31782908",
+      "field_search": "question",
+      "question": "Mặt hàng này ở thành phố tam kỳ còn hàng ko ạ",
+      "answer": "Dạ chào anhNhư em kiểm tra thì sản phẩm ở TP. Tam Kỳ chỉ đang còn hàng tại các siêu thị sau ạ:622 Phan Chu Trinh, P. An Sơn, TP. Tam Kỳ, T. Quảng Nam Điện Máy Xanh 540 Phan Chu Trinh, P.An Sơn, TP.Tam Kỳ, T.Quảng Nam (Gần Ngã tư Nam Ngãi) Nếu anh quan tâm đến sản phẩm, anh có thể đến trực tiếp siêu thị trên để mua hàng hoặc để lại số điện thoại để bên em có nhân viên hỗ trợ anh đặt giữ hàng ngay anh nhé. Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.637884,
+      "id": "23179120",
+      "field_search": "question",
+      "question": "A ơi camera iphone 6 có nét bằng lumia 930 ko ạ ,A ơi camera iphone 6 có nét bằng lumia 930 ko ạ",
+      "answer": "Chào bạn,Theo trải nghiệm cá nhân của mình chất lượng ảnh từ Lumia 930 sẽ nhỉnh hơn bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.6219444,
+      "id": "21987581",
+      "field_search": "question",
+      "question": "iPhone lúc mua có được tặng kèm miếng dán mặt trước với mặt sau không hay phải tự mua thêm hả bạn",
+      "answer": "Chào chị.Với Điện thoại iPhone 6 32GB không được hỗ trợ tặng kèm miếng dán màn hình và cả mặt sau chị nhé. Chị cũng có thể tham khảo mua kèm thêm tại Siêu thị Thegioididong.com chị nha.Thông tin đến chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.621208,
+      "id": "22097817",
+      "field_search": "question",
+      "question": "Có miếng dán mặt sau điện thoại không ạ.",
+      "answer": "Chào anh,Hiện tại bên em có miếng dán mặt sau dán được của sản phẩm nha anh. Anh có thể ra siêu thị mua miếng dán, bên em sẽ hỗ trợ dán anh nhé.Chia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.592808,
+      "id": "21500556",
+      "field_search": "question",
+      "question": "Camera sau ip6 làm bằng gì có chống trầy ko qrtv",
+      "answer": "Chào bạn, Camera sau điện thoại này được làm bằng kính và không có chống trầy bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.570481,
+      "id": "24432636",
+      "field_search": "question",
+      "question": "Mình muốn hỏi cách mở khoá màn hình bằng cách vuốt màn mình cho ip 6. Phiên bản ios 11.2.1",
+      "answer": "Chào bạn,Điện thoại này bạn phải nhấn nút Home để vào phần nhập mật khẩu chứ không vuốt mở khóa được bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.514469,
+      "id": "29277791",
+      "field_search": "question",
+      "question": "Có  cmt với  bằng lái xe thì  trả  góp  dc ko",
+      "answer": "Chào anh,Dạ với 2 giấy tờ này trả góp được rồi nhé, anh vui lòng trả trước 2.247.000₫ (30%) nha, đây là gói lãi suất 0% của Home Credit đó ạ, mỗi tháng anh trả khoảng 910.500₫ trong 6 tháng thôi nhé, nếu quan tâm gói lãi suất này anh vui lòng thông tin lại số điện thoại rồi siêu thị bên em sẽ giúp anh làm hồ sơ trả góp tiện lợi và nhanh chóng anh nhé",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.5120087,
+      "id": "31196991",
+      "field_search": "question",
+      "question": "mình có cmnd gốc bằng lắi xe gốc có cần phô tô ko",
+      "answer": "Chào anh,Dạ anh cần có CMND và bằng lái xe bản gốc từ 20-60 tuổi để được hỗ trợ mua trả góp anh nhé, khi làm xong thủ tục thì bên em sẽ trả lại giấy tờ cho anh ạThông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.491092,
+      "id": "27493202",
+      "field_search": "question",
+      "question": "Dt của e bị vô hiệu hóa .có mở lại máy dc ko ak",
+      "answer": "Chào bạn,Dạ trường hợp này bạn vui lòng tham khảo bài viết  để xem hướng dẫn chi tiết bạn nhé.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.4666224,
+      "id": "28146943",
+      "field_search": "question",
+      "question": "ip6 chơi lq mở đc 60fps ko ak",
+      "answer": "Chào bạn, Điện thoại này chơi game Liên Quân có FPS vào khoảng 20-30 bạn nhé. Thông tin đến bạn .Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.465313,
+      "id": "22019132",
+      "field_search": "question",
+      "question": "Loa blutooth thanh toán bằng mastercadr có dc giảm giá ko",
+      "answer": "Chào chị,Loa Bluetooth khi chị thanh toán bằng MASTERCARD thì cũng không được giảm giá chị nhéThông tin đến chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.454271,
+      "id": "18070001",
+      "field_search": "question",
+      "question": "em có CMND và bằng lái xe có mua góp đc ko qtv",
+      "answer": "Chào anh,Nếu anh có CMND, bằng lái xe thì anh có thể tham gia trả góp cho máy gói lãi suất 4.31% anh nhé. Anh cần trả trước 2.997.000₫ (30%), góp 940.000₫/tháng trong 12 tháng anh nha. Nếu cảm thấy gói lãi suất này phù hợp anh có thể để lại thông tin số điện thoại bên em sẽ liên hệ hỗ trợ làm hồ sơ trả góp Online giúp anh nhé. Mong phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.453823,
+      "id": "26345225",
+      "field_search": "question",
+      "question": "trả trước 0đ được ko..có cmt với bằng xe máy",
+      "answer": "Chào anh,nếu chỉ có CMND và bằng lái xe thì chưa trả trước 0đ được anh nha, Anh cần đủ 20 tuổi và bắt buộc phải có hộ khẩu. Anh có hộ khẩu không ạ?Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.45321,
+      "id": "31877055",
+      "field_search": "question",
+      "question": "Bên mình có miếng dán sẵn của mặt sau iphone SE ko ạ ? Hay phải cắt thủ công ?",
+      "answer": "Chào anh,Dạ tùy vào siêu thị Thegioididong.com sẽ có miếng dán sẵn hay không có, nếu không có bên em cắt ra từ miếng dán lớn hơn nhưng chất lượng 2 miếng dán là như nhau và bên em cắt đẹp lắm anh nhé.Thân gửi đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.367656,
+      "id": "23344079",
+      "field_search": "question",
+      "question": "Mặt kiếng ip6 có dễ bị trầy k ad",
+      "answer": "Chào anh, Trường hợp của anh mặt kính của iPhone 6 khá khó trầy tuy nhiên tốt hơn anh nên trang bị thêm miếng dán màn hình cho máy để bảo vệ mặt kính tốt hơn anh nhé. Hiện bên em đang kinh doanh miếng dán chống trầy cho máy với giá là 50.000đ/miếng/mặt, nếu anh quan tâm vui lòng đến siêu thị Thegioididong.com gần nhất để mua hàng và được nhân viên hỗ trợ dán giúp anh ạ.  Thân chào anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.367656,
+      "id": "20290949",
+      "field_search": "question",
+      "question": "củ sạc có sạc dc 2 mặt k qtv",
+      "answer": "Chào bạn, Mình chưa hiểu ý sạc được 2 mặt của bạn là sao. Bạn có thể nói rõ hơn cho mình biết để mình có thể kiểm tra và hỗ trợ đến bạn được tốt hơn nhé.  Mong nhận được phản hồi từ bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.3601103,
+      "id": "29707103",
+      "field_search": "question",
+      "question": "Mua tiền mặt có giảm 500k hok z qtv",
+      "answer": "Chào anh, Sản phẩm này anh thanh toán tiền mặt vẫn được hỗ trợ giảm giá anh nhé. Nên anh yên tâm ạ. Nếu anh quan tâm có thể để lại đây thông tin khu vực của anh để em hỗ trợ kiểm tra hàng sản phẩm giúp anh nhé. Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.355109,
+      "id": "21996300",
+      "field_search": "question",
+      "question": "touch id có vẻ ko ăn như lúc đầu có khi còn ko mở đc đã vệ sinh và cài lại touch",
+      "answer": "Chào bạn,Trường hợp này cần kiểm tra trực tiếp cho máy nên bạn vui lòng mang máy đến siêu thị gần nhất để được hỗ trợ kiểm tra cho máy và thông tin cụ thể đến bạn nha. Thông tin đến bạn, thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.2777014,
+      "id": "28549150",
+      "field_search": "question",
+      "question": "M 28t, có cmnd, bằng lái xe có mua trả góp đc ko ad",
+      "answer": "Chào anh ! Anh đủ điều kiện tham gia trả góp rồi ạ, anh đưa trước 50% khoảng 3.745.000đ, góp 8 tháng mỗi tháng khoảng 497.500đ, lãi suất 0% của Home Credit ạ. Nếu đồng ý gói trả góp này thì anh có thể cho bên em xin thông tin số điện thoại bên em hỗ trợ làm hồ sơ Online cho anh nha. Mong nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.2633457,
+      "id": "20332937",
+      "field_search": "question",
+      "question": "thanh toán bằng Visa card có được giảm 1 triệu ko ad?",
+      "answer": "Chào chị,Chị thanh toán bằng Visa Card thì không được Giảm thêm 1.000.000đ nha. Chị phải thanh toán trực tuyến bằng MasterCard thì mới được giảm giá nhéThông tin đến chị !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.2486963,
+      "id": "25326207",
+      "field_search": "question",
+      "question": "Mùng 4 mới mở cửa lại phải ko ạ",
+      "answer": "Chào chị, Dạ siêu thị bên em mở cửa hoạt động lại vào mùng 4 chị nha. Nếu chị cần thêm thông tin gì có thể phản hồi tại đây để bên em hỗ trợ giúp chị nhé. Thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.2386274,
+      "id": "29479201",
+      "field_search": "question",
+      "question": "Ip chỉ có ram 1gb thôi thì có mượt bằng android ko ạ",
+      "answer": "Chào bạnMình kiểm tra máy tuy trang bị 1Gb ram nhưng sử dụng vẫn khá mượt mà bạn nhé.Chia sẽ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.2385383,
+      "id": "21336833",
+      "field_search": "question",
+      "question": "Camera ip6 có làm bằng kính chống trầy ko v qtv",
+      "answer": "Chào bạn Kính Camera của iPhone 6 có chống trầy nhưng không phải hoàn toàn bạn nhé , nếu bạn để máy tác động nhiều vẫn bị trầy ạ .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.189287,
+      "id": "29031013",
+      "field_search": "question",
+      "question": "Điện thoại mình tự nhiên mở nhạc không có tiêng mình tắt nguồn mở lại vẫn không có. Phải làm nn ạ",
+      "answer": "Chào bạn Trường hợp này bạn bấm phím âm lượng bên hông máy xem có tiếng không bạn nha .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.1829906,
+      "id": "21714663",
+      "field_search": "question",
+      "question": "Đt nokia 206 của bị trẻ nhỏ bấm. Khi mở màn hình lên thì đt bảo nhập mã bảo vệ nhưng e ko biết mã là số mấy. E có thử vs số 12345 và 00000 nhưng ko đc có cách nào để mở khoá ko ạk",
+      "answer": "Chào bạn, Trường hợp này bạn có thể mang sản phẩm sang siêu thị Thegioididong.com gần nhất để bên mình gửi máy của bạn về hãng chạy lại mới mở khoá được nha.Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.154298,
+      "id": "20421292",
+      "field_search": "question",
+      "question": "Thanh toán = master được giảm 1tr vậy nếu mình thanh toán = tiền mặt có được giảm ko qtv",
+      "answer": "Chào bạn,Xin lỗi vì sự chậm trễ. Nếu bạn thanh toán trực tiếp bằng tiền mặt bên mình không hỗ trợ giảm 1.000.000đ cho sản phẩm nha.Chia sẻ cùng bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.1513853,
+      "id": "18174861",
+      "field_search": "question",
+      "question": "Ip6 bên bạn có dán full mặt lưng không qtv",
+      "answer": "Chào chị,Dạ Thegioididong.com có hỗ trợ dán mặt lưng giúp chị nha. Chị có thể mang sản phẩm đến siêu thị Thegioididong.com gần nhất bên em hỗ trợ chị nha.Mong nhận được phản hồi từ chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.1339855,
+      "id": "31197022",
+      "field_search": "question",
+      "question": "mình có cmnd gốc bằng lái xé gốc có mua trả góp dc ko và có cần phô tô ko ad",
+      "answer": "Chào anh, Dạ hiện tại điều kiện trả góp bên em anh phải đủ 20-60 tuổi, anh có CMND   bằng lái xe (gốc) thì anh có thể tham gia trả góp ạ. Anh có thể vui lòng cho em xin độ tuổi, số tiền anh có thể trả trước (0-80%) và số tháng anh muốn góp là bao nhiêu để bên em hỗ trợ anh nha. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.1238747,
+      "id": "26475650",
+      "field_search": "question",
+      "question": "Mua online có được hưởng km  phiếu mua hàng ko ak. Và phiếu đó mua được những mặt hàng qtv.",
+      "answer": "Chào chị Thảo Khi chị mua online iPhone 6 32GB thì vẫn được hưởng PHIẾU MUA HÀNG Apple Watch S3 GPS chị nha. Với PHIẾU MUA HÀNG đó thì chị có thể dùng để mua Apple Watch S3 GPS ạ. Chị tham khảo thông tin thêm về sản phẩm ởnhéThông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.118016,
+      "id": "28781078",
+      "field_search": "question",
+      "question": "Tggd cho mình hỏi chút iPhone 6. Có cách nào mở khóa mk màn hình ko .có thể resets lại máy dc ko",
+      "answer": "Chào bạn, Bạn vui lòng cung cấp thêm thông tin cho mình là bạn quên mật khẩu màn hình hay như thế nào để mình giúp bạn nhé. Mong phản hồi từ bạn  !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.0720196,
+      "id": "26712381",
+      "field_search": "question",
+      "question": "Chỉ có CMND với bằng lái xe thì trả góp đc ko ạ",
+      "answer": "Chào chị Hiện với 2 giấy tờ trên thì chị có thể tham gia trả góp bình thường rồi chị nhé. Nếu chị đủ 20-60 tuổi thì chị xin vui lòng cho em xin số tiền có thể trả trước(10%-70%) là bao nhiêu, số tháng góp(3-24 tháng)để em có thể tư vấn gói lãi suất phù hợp với chị ạ. Mong nhận phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.0720196,
+      "id": "26051714",
+      "field_search": "question",
+      "question": "Thanh toán bằng thẻ tín dụng có được giảm 1 tr ko ad",
+      "answer": "Chào anh Hải HIện nếu anh có thẻ tín dụng của phía JCB thì anh sẽ được nhận ưu đãi giảm 1 triệu đó anh.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.0720196,
+      "id": "21105329",
+      "field_search": "question",
+      "question": "Đến cửa hàng mua có được giảm giá thanh toán bằng mastercard ko?",
+      "answer": "Chào anh Hiện khuyến mãi này anh cần phải thanh toán online mới được giảm giá anh nhé. Mong anh thông cảm.Xin gửi thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.0712075,
+      "id": "24408935",
+      "field_search": "question",
+      "question": "Làm sao để ko phải cài mật khẩu khi mở khoá",
+      "answer": "Chào bạn, Trường hợp này thì bạn vào Cài đặt > Touch ID và mật khẩu > Nhập mật khẩu > Mở khóa iPhone > Tắt đi nha bạn.Xin thông tin đến bạn ạ !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.0583467,
+      "id": "19460774",
+      "field_search": "question",
+      "question": "may có hổ trợ chức năng dùng touch id để mở khóa điện thoại mà ko cần bấm nút home ko ạ",
+      "answer": "Chào bạn, Điện thoại này bạn cần mở sáng màn hình là dùng được van tay mở khóa điện thoại mà không cần nhấn nút Home bạn nhé. Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.0431304,
+      "id": "30342445",
+      "field_search": "question",
+      "question": "Co chống nước hay mở khoá bầng vân tay ko",
+      "answer": "Chào bạn,Sản phẩm iPhone 6 không hỗ trợ chống nước. Tuy nhiên, máy có hỗ trợ mở khóa vân tay bạn nhé. Xin thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.0346537,
+      "id": "26848672",
+      "field_search": "question",
+      "question": "Có dán cường lực mặt trước  và dán mặt sau k ? Không biết là máy này có stream liên quân ở setting trung bình 720p đc k",
+      "answer": "Chào bạn,Bên mình chưa hỗ trợ dán cường lực cho máy bạn nha, máy có thể stream game này mức trung bình ổn bạn nha, lưu ý cho máy kết nối mạng wifi mạnh và ổn để stream tốt hơn bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.020809,
+      "id": "32107533",
+      "field_search": "question",
+      "question": "Bên TGDĐ có dán mặt sau máy không an",
+      "answer": "Chào anhDạ bên em có hỗ trợ dán ạ, anh có thể mang sản phẩm ra siêu thị để bên em tìm miếng dán thích hợp để hỗ trợ dán cho sản phẩm anh nhaThông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 7.0177307,
+      "id": "17728293",
+      "field_search": "question",
+      "question": "Ip6 32GB có áp dụng trả góp bằng thẻ tín dụng Vietinbank ko ạ",
+      "answer": "Chào anh,Hiện sản phẩm iPhone 6 32GB anh quan  tâm bên ẹm không trợ tham gia góp qua thẻ tín dụng của các ngân hàng nha anh, tuy nhiên anh có thể tham gia góp với các công ty tài chính cũng được đó ạ. Anh có thể vui lòng cung cấp các giấy tờ anh hiện có như : chứng minh nhân dân, bằng lái xe, hóa đơn điện, hộ khẩu để bên em tư vấn cho anh gói lãi suất tốt nhất được không ạ. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.994011,
+      "id": "17872133",
+      "field_search": "question",
+      "question": "HôM nay tgdd có mở cửa không ạ",
+      "answer": "Chào anh,Dạ ngày hôm nay siêu thị bên em vẫn làm việc bình thường như các ngày khác anh nhéChia sẻ cùng anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.994011,
+      "id": "17870369",
+      "field_search": "question",
+      "question": "Ngày mai tgdd có mở cửa không ạ",
+      "answer": "Chào anh,Dạ ngày mai bên em vẫn làm việc anh nha, anh có thể đến siêu thị để nhân viên bên em hỗ trợ anh nhé.Xin được thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.9925995,
+      "id": "20094337",
+      "field_search": "question",
+      "question": "mua máy này có dc tặng kèm gì ko vậy. ví dụ . ốp lưng. hoặc mặt kính cường lực",
+      "answer": "Chào anh Ngọc,Hiện tại siêu thị Thegioididong.com chưa hỗ trợ tặng kèm quà khi mua máy anh nha! Anh thông cảm nhé! Máy khi mua hiện tại anh được hỗ trợ Cơ hội trúng xe SH 150i (Hà Nội và miền Bắc) và được Giảm thêm 1.000.000đ khi thanh toán trực tuyến bằng MasterCard nha!Xin thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.9782963,
+      "id": "21890036",
+      "field_search": "question",
+      "question": "Cam sau ip6 làm bằng gì vậy qtv có phải kình cường lực ko có chống trầy ko và nó có dễ trầy ko ạ",
+      "answer": "Chào bạn Huy,Rất tiếc thông tin về mặt kính Camera của máy bên mình không có thông tin chính xác từ hãng. Tuy vậy kính camera của máy được gia công khá tốt, để yên tâm bạn có thể sử dụng ốp lưng để bảo vệ mặt kính Camera được tốt hơn. Bạn tham khảo một số ốp lưng phù hợp với máy .Thân chào bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.9593325,
+      "id": "25431769",
+      "field_search": "question",
+      "question": "E nhặt đc cái đt iPhone 6... Có cách nào mở khóa đuợc vân tay ko nhĩ",
+      "answer": "Chào bạn, Rất tiếc là không có cách nào cả vì iPhone bảo mật là rất tốt nhé bạn.Bạn nên tìm trả lại điện thoại cho người đánh rơi bạn nhé.Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.9593325,
+      "id": "20345103",
+      "field_search": "question",
+      "question": "Cho em hỏi iphon 5 của em quên mk mở máy thì có sửa đc ko ạ",
+      "answer": "Chào bạnNếu bạn quên mật khẩu, có thể tham khảo bài viết  để mở thử nhé.Thông tin đến bạn,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.9543476,
+      "id": "21366040",
+      "field_search": "question",
+      "question": "màn hình iphone 6 làm bằng j  ko dán keo có dễ trầy ko v QTV",
+      "answer": "Chào anh,Mặt kính cảm ứng của Điện thoại iPhone 6 32GB là Kính oleophobic (ion cường lực) nên sẽ không dễ trầy đâu anh nha. Nếu không yên tâm anh có thể dán thêm Miếng dán thường chống trầy xước cho máy nữa là được nhéThông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.954171,
+      "id": "17447024",
+      "field_search": "question",
+      "question": "Chính xác bao giờ có mặt tại thế giới di động",
+      "answer": "Chào anh Minh,Sản phẩm này sẽ có hàng tại Thegioididong.com từ ngày 14/3 anh nhé. Nhưng anh có thể đặt cọc trước sản phẩm để nhận các phần quà và sẽ được nhận máy trong thời gian từ 14/3-26/3 anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.952017,
+      "id": "28686780",
+      "field_search": "question",
+      "question": "Ip6 khi khoá màn hình không thể mở được trung tâm kiểm soát bằng cách vuốt dưới lên. Cách khắc phục thế nào ạ",
+      "answer": "Chào bạn,Bạn vào cài đặt - trung tâm kiểm soát - xem có tùy chọn truy cập trên màn hình khóa - bật lên bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.9489903,
+      "id": "30899268",
+      "field_search": "question",
+      "question": "Bị mất cmnd+ bằng lái xe có mỗi sổ hộ khẩu có trả góp đk ko",
+      "answer": "Chào anh,Rất tiếc anh mất CMND thì không trả góp được nha. Anh vui lòng làm lại CMND mới nhé.Thông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.9402933,
+      "id": "17519457",
+      "field_search": "question",
+      "question": "Có hỗ trợ trả góp 0% thanh toán bằng thẻ tín  dụng ko shop?",
+      "answer": "Chào anh Khánh,HIện sản phẩm này bên em chưa có áp dụng góp thẻ tín dụng 0% anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.934602,
+      "id": "25193447",
+      "field_search": "question",
+      "question": "Thay mặt kính ip6 bn ạ",
+      "answer": "Chào anh ! Nếu anh mua máy này bên em thì anh có thể mang máy đến Siêu thị, bên em kiểm tra chuyển lên hãng thay cho anh, báo giá anh sau ạ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.925948,
+      "id": "20250768",
+      "field_search": "question",
+      "question": "Trả góp 6 th, trước 30%,,,có cm và bằng lái xe thôi có đc ko ạ",
+      "answer": "Chào chị, Chị dùng CMND , bằng lái xe và đủ 20-60t chị tham gia được gói lãi suất 3-5.5% của công ty FECredit với trả trước khoảng 2.697.000₫(30%) và trả khoảng 1.401.500₫ mỗi tháng trong vòng 6 tháng chị nha . Nếu chị đủ các trên điều kiện thì vui lòng cho em xin số điện thoại để bên em có thễ hỗ trợ làm hồ sơ online giúp chị nhé.Mong sớm nhận được phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.9014316,
+      "id": "29145744",
+      "field_search": "question",
+      "question": "Ip 6 có ứng dụng nào để có thể kết nối wifi bằng wps ko",
+      "answer": "Chào bạn,Hiện tại thì rất tiếc là mình chưa thấy có ứng dụng này trên máy bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.8611126,
+      "id": "29044914",
+      "field_search": "question",
+      "question": "Máy vừa sạc bằng dự phòng sử dụng chat mess có chai pin ko. Còn nếu chơi game thì có chai ko",
+      "answer": "Chào bạn,Nếu bạn vừa sạc vừa sử dụng máy thì lúc đó PIN điện thoại vừa nạp vừa xả , lượng PIN dùng nhiều hơn lượng PIN sạc vào nên PIN lên không nổi và lâu ngày sẽ làm giảm tuổi thọ pin bạn nhé Thông tin đến bạn ạ!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.8571873,
+      "id": "19791067",
+      "field_search": "question",
+      "question": "Co cntnd voi bằng lái xe có mua dk trả góp ko ak,",
+      "answer": "Chào anh,Dạ với cmnd và bằng lái xe anh mua trả góp được anh nha, mức trả trước khoảng 2.697.000₫ (30%) và anh góp trong 6 tháng mỗi tháng 1.401.500₫, nếu anh quan tâm vui lòng để lại số điện thoại bên em sẽ hỗ trợ anh làm hồ sơ online nhanh chóng anh nhé. Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.8569384,
+      "id": "30888133",
+      "field_search": "question",
+      "question": "Iphone 5s e mở lên chỉ hiện thị như v ko có màng hình 9 thì phải làm sao ạ",
+      "answer": "Chào anh , Phần này anh chọn ngôn ngữ cho điện thoại > kết nối Wifi và làm theo các bước điện thoại hướng dẫn hoàn tất là vào được điện thoại anh nhé. Thông tin đến anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.850954,
+      "id": "21804797",
+      "field_search": "question",
+      "question": "Cho mình hỏi,mình có CMTND nhưng ko có bằng lái xe thì có đc mua trả góp không?",
+      "answer": "Chào anh.Nếu không có bằng lái xe, anh có thể sử dụng hộ khẩu thay thế được đó ạ, không biết anh có thể bổ sung hộ khẩu không anh?Mong phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.838049,
+      "id": "26118638",
+      "field_search": "question",
+      "question": "Có thể cài mật khẩu cho Ghi chú , hình anh , danh bạ , .. ko ạ ( đề phòng ngta lạ mở xem )",
+      "answer": "Chào bạn,Bạn vui lòng cho mình xin thông tin máy bạn đang sử dụng iOS mấy để mình kiểm tra hỗ trợ bạn nhé. Mong nhận được thông tin từ bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.8216076,
+      "id": "20853619",
+      "field_search": "question",
+      "question": "dán mặt sau iphone có bị hư hỏng gì k",
+      "answer": "Chào anh,Anh dán miếng dán mặt lưng cho iPhone thì cũng không bị hư hỏng gì đâu anh nhéThông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.8181853,
+      "id": "19895419",
+      "field_search": "question",
+      "question": "Bên mình có thay mặt kính sau của máy Samsung A7 (2016) không",
+      "answer": "Chào anh, Hiện tại bên em không hỗ trợ thay mặt kính sau của điện thoại anh nhé. Tuy nhiên nếu sản phẩm anh mua tại Thegioididong.com, anh vui lòng mang máy đến cửa hàng gần nhất để bên em chuyển máy đến hãng để sữa chữa tính phí (nếu có) cho anh, sau đó hãng sẽ báo giá là cho anh sau anh nhé.  Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.7880826,
+      "id": "31269782",
+      "field_search": "question",
+      "question": "ad cho mk hỏi sao mk ấn nút home để mở siri nhưng ko có tiếng là sao ah",
+      "answer": "Chào anh ,Dạ anh phải nhấn giữ thì mới được anh nhé, anh thử lại xem sao.Mong nhận được phản hồi từ anh .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.7880783,
+      "id": "28003673",
+      "field_search": "question",
+      "question": "Ip bị quên icloud có mở đc kh ạ",
+      "answer": "Chào bạn,Dạ trường hợp này bạn vui lòng tham khảo bài viết  để xem hướng dẫn chi tiết bạn nhé: \"Xin thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.783225,
+      "id": "23458636",
+      "field_search": "question",
+      "question": "Dt ip6 sao mở wifi xog tắt rồi. Đi chỗ khác có wifi cái tự động mở wifi lên là sao ạ",
+      "answer": "Chào bạn,Đây là chức năng của iOS 11 , khi bạn tắt Wifi bằng thanh công cụ vuốt từ dưới lên là chỉ ngắt kết nối với mạng Wifi hiện tại chứ chưa tắt Wifi hẳn , khi điện thoại bạn ở trong vùng phủ sóng mạng Wifi khác điện thoại sẽ tự kết nối lại .Muốn tắt hẳn Wifi bạn phải vào Cài đặt > tắt Wifi nhé bạn .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.780958,
+      "id": "23851090",
+      "field_search": "question",
+      "question": "Cho e hỏi là e mua iphone 6 32G bằng tiền mặt đc khoảng 3 tháng rồi giờ e muốn đổi qua oppo F5 thì có mất phí k ạ và phí là bao nhiêu",
+      "answer": "Chào anh Dạ , nếu anh mua sản phẩm tại Thegioididong còn bảo hành sẽ hỗ trợ đổi trả sản phẩm , vui lòng anh cung cấp giá trị khi anh mua sản phẩm iphone 6 32GB để em kiểm tra và hỗ trợ tư vấn tính giá tham khảo giúp anh nha .Mong nhận phản hồi sớm từ anh",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.7679152,
+      "id": "20293330",
+      "field_search": "question",
+      "question": "Cho mình hỏi thanh toán bằng thẻ visa prepaid có đc giảm 1tr ko ạ",
+      "answer": "Chào anh, Đã có QTV trả lời câu hỏi của anh rồi ạ. Anh hãy cập nhật lại trang bình luận để nhận phản hồi anh nhé.   Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.762157,
+      "id": "30825720",
+      "field_search": "question",
+      "question": "Cho hỏi hàng ịphone lock ko rắn sim vào mở sài bình thường ko ak e có thể lấy máy khác phát mạng qua sài được ko ak",
+      "answer": "Chào anh Dạ sản phẩm  này nếu mới mua nếu muốn sử dụng thì phải có sim kích hoạt sau đó tháo sim sử dụng bình thường và có thể bắt wifi từ thiết bị khác để sử dụng vẫn được anh nhé. Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.7615747,
+      "id": "26739227",
+      "field_search": "question",
+      "question": "Dạ e có cái ip 5s bị quên mật khẩu.  Bên tgdd có thể mở khóa giúp e dc ko ah",
+      "answer": "Chào bạn,Dạ trường hợp này bạn vui lòng tham khảo bài viết  để xem hướng dẫn chi tiết bạn nhé.Bạn lưu ý bạn cần nhớ tài khoản iCloud để có thể nhập khi có yêu cầu.Xin thông tin đến bạn. ,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.7444735,
+      "id": "21304470",
+      "field_search": "question",
+      "question": "Cho mjh hỏi ip 6s co khoa cam trươc đc k đt mjh k chup cam trươc đươc.",
+      "answer": "Chào bạn,Camera của máy thì không khóa được bạn nha, bạn không thích dùng camera trước thì chỉ dùng camera sau thôi và không bật chuyển qua camera trước bạn nhé.Thông tin đến bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.737647,
+      "id": "22105411",
+      "field_search": "question",
+      "question": "Cho mình hỏi iPhone 6 32G có máy cũ ko vậy. Nhiêu tiền vậy. Có chả góp ko mình có CM bằng lái xe",
+      "answer": "Chào anh LongMáy Iphone 6 32GB thì Thegioididong.com có máy cũ anh nha. Máy cũng đang có hỗ trợ góp đó, anh vui lòng để lại cho em thông tin khu vực anh hiện tại để em hỗ trợ tìm giúp anh siêu thị có mày gần anh nhé.Mong nhận được phản hồi từ anh,",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.7223573,
+      "id": "22621502",
+      "field_search": "question",
+      "question": "Qtv cho e hỏi máy e nghịch giờ bị khóa bên mình có mở ĐK ko ah . iPhone 6 32gb",
+      "answer": "Chào bạn,Nếu bạn quên mật khẩu khóa màn hình của máy thì bạn  để mở khóa nha. Lưu ý khi Restore mọi dữ liệu trong máy sẽ mất hết (bao gồm Danh bạ, dữ liệu ứng dụng, hình ảnh,…). Bạn cần ghi nhớ tài khoản và mật khẩu iCloud của bạn trước khi thực hiện nha. Chia sẻ cùng bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.7180924,
+      "id": "24929553",
+      "field_search": "question",
+      "question": "thanh toán tại quầy bằng thẻ visa debit MB có đc giảm 500k ko ad",
+      "answer": "Thân chào anh,Rất tiếc là trường hợp mình siêu thị Thegioididong.com chưa hỗ trợ mình được chị nha, mình cần thanh toán online mới được chị nhéThân gửi chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.7180924,
+      "id": "18384245",
+      "field_search": "question",
+      "question": "mình muốn mua trả góp chỉ có bằng lái xe và cmnd co dc ko",
+      "answer": "Chào anh,Có CMND, GPLX và đủ 20 tuổi là anh có thể mua góp được nha. Anh có thể tham khảo gói lãi suất 1.75% của HOMECREDIT, trả trước 50%(4.995.000₫), góp khoảng 680.000₫/tháng và góp trong 9 tháng. Nếu cảm thấy gói lãi suất này phù hợp anh có thể để lại thông tin số điện thoại bên em sẽ liên hệ hỗ trợ làm hồ sơ trả góp Online giúp anh nhé.  Mong phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.7129726,
+      "id": "22048925",
+      "field_search": "question",
+      "question": "M muốn thanh toán bằng thẻ visa của mb có đc giảm giá ko ạ",
+      "answer": "Chào chị Vâng chị thanh toán bằng Visa thì bên em không hỗ trợ giảm giá chị nha Xin gửi thông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.700638,
+      "id": "17833628",
+      "field_search": "question",
+      "question": "Mình muốn trả góp 0đ mà mình chỉ có cmt , bằng lái xe có được ko vậy ad",
+      "answer": "Chào anh !  Với gói trả trước 0đ thì giấy tờ anh hiện có là chưa đủ điều kiện tham gia anh nhé. Để tham gia anh cần có thêm hoá đơn điện và hộ khẩu đó anh. Không biết anh có thể bổ sung thêm giấy tờ không ạ ?  Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.6901817,
+      "id": "20884356",
+      "field_search": "question",
+      "question": "Néu dùng cả kính cường lực full toàn bộ màn hình và ốp mặt trc vậy náy có lm sao ko",
+      "answer": "Chào anh,Nếu anh dùng Kính cường lực full màn hình và Ốp lưng mặt trước thì máy cũng không bị làm sao đâu ạ. Nhưng vì Điện thoại iPhone 6 32GB có mặt kính cong 2.5D nên không thể dán Full Màn hình được anh nha. Miếng dán chỉ hỗ trợ dán phần mặt phẳng thôi ạThông tin đến anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.682754,
+      "id": "22802367",
+      "field_search": "question",
+      "question": "Cho e hoi iphone 6 plus cua e len ios 11 sai hao pin qua xuong ban 10.3.3 bị apple khoa sign roi gio co suong dc ko",
+      "answer": "Chào bạn.Dạ rất tiếc thì Apple đã chính thức khóa ios 10 rồi không hạ cấp được nữa bạn nhé. Tình trạng hao pin trên ios 11 là tình trạng chung luôn đó ạ bạn vui lòng chờ Apple ra bản cập nhật tiếp theo xem có khắc phục được lỗi hao pin hay không bạn nha. Thông tin đến bạn.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.641553,
+      "id": "18185315",
+      "field_search": "question",
+      "question": "cho mình hỏi IP 6 32g khi màn hình tắt thì có cảm biến dc vân tay k. hay phải bật màn hình sáng thì mới mở khóa dc bằng vân tay",
+      "answer": "Chào bạn,Dạ theo mình kiểm tra bạn cần phải bật màn hình sáng mới sử dụng được vân tay bạn nhé.Thân chào bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.633398,
+      "id": "30239856",
+      "field_search": "question",
+      "question": "không lấy PMH có được chuyển sang tiền mặt không add",
+      "answer": "Chào chị, Chị không lấy phiếu cũng không đổi ra tiền mặt ạ. Phiếu mua hàng cũng không trừ vào giá máy ạ, phiếu này chị có thể dùng để mua tất cả sản phẩm tại Thegioididong.com và DienmayXANH.com ở đơn hàng sau ạ.Thông tin đến chị ạ. ",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.6214747,
+      "id": "21211744",
+      "field_search": "question",
+      "question": "Hi Anh/Chị Em có mua điện thoại này hồi đầu tháng 8 này, nhưng em chỉ dán keo tại TGDD mặt sau thui, và mặt trước em dán kính cường lực Giờ em muốn dán luôn mặt trước thì có được ko ạ? Vì bên Anh/Chị bảo là bảo hành 03 tháng đó ạ!  Em cám ơn.",
+      "answer": "Chào chị Thảo,Trường hợp trên thì chị chỉ được dán lại mặt sau thôi chị nhé, nếu muốn dán mặt trước thì chị phải mua thêm miếng dán mặt trước với giá 50.000đ ạ.Thông tin đến chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.6152744,
+      "id": "20360789",
+      "field_search": "question",
+      "question": "Lam sao đe tắt nôi dung thông bao vi dụ nhu tin nhan,zalo tren man hinh khoa ạ",
+      "answer": "Chào bạn,Trường hợp này bạn vào cài đặt > thông báo > chọn tin nhắn, zalo > tắt thông báo trên màn hình khóa bạn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.6038933,
+      "id": "26146161",
+      "field_search": "question",
+      "question": "Giá 7.990k nếu mình thanh toán bằng thẻ jcb có giảm thêm 1 triệu ko shop?",
+      "answer": "Chào anh Dạ. Sản phẩm với MUA ONLINE GIÁ RẺ: 7.990.000₫ thì không áp dụng khuyến mãi giảm  1 triệu khi thanh toán bằng thẻ JCB anh nha. Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.6038933,
+      "id": "20293324",
+      "field_search": "question",
+      "question": "Cho mình hỏi thanh toán bằng thẻ visa prepaid có được giảm 1 tr ko ạ",
+      "answer": "Chào anh, Rất tiếc hiện tại khi anh thanh toán online qua thẻ MasterCard mới được hỗ trợ giảm giá thôi anh nhé. Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.6032124,
+      "id": "18411760",
+      "field_search": "question",
+      "question": "sao e nt fb tren mang hinh khoa lai doi mat khau z. truoc nt thi bt ma",
+      "answer": "Chào bạn, Đây có thể là do bản cập nhật mới của hệ điều hành iOS tăng tính bảo mật nên yêu cầu bạn nhập mật khẩu khóa màn hình mới cho bạn nhắn tin nhé .Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.594816,
+      "id": "27063062",
+      "field_search": "question",
+      "question": "Có bằng lái xe thì làm hồ sơ có cần xác minh về gia đình ko ad",
+      "answer": "Chào anh, Hiện tại thường thì trả góp công ty tài chính cần liên hệ gia đình để xác minh đó anh nha!Thông tin đến anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.5893106,
+      "id": "20407295",
+      "field_search": "question",
+      "question": "Sao máy e thi thoảng lại ko mở dc. Mà toàn tiếng anh vậy",
+      "answer": "Chào bạn, Trường hợp này thì bạn thử nhấn Nguồn và Home để khởi động lại điện thoại xem sao nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.5647044,
+      "id": "27171391",
+      "field_search": "question",
+      "question": "Nv ơi chơi pubg bằng iPhone này dc ko",
+      "answer": "Chào anh,Anh vẫn có thể chơi Pubg trên iphone 6 được anh nha. Khi chơi thì anh có thể tắt hết ứng dụng ngầm và kết nối mạng ổn định để chơi mượt hơn anh nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.5587635,
+      "id": "23658287",
+      "field_search": "question",
+      "question": "em trả bằng thẻ tin dung đc ko?",
+      "answer": "Chào anh,Anh có thể trả tiền iPhone 6 32GB bằng thẻ tín dụng được anh nha.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.554089,
+      "id": "20233827",
+      "field_search": "question",
+      "question": "đến xem máy rồi thanh thanh toán bằng thẻ Mastercard có được giảm giá ko ạ",
+      "answer": "Chào chị Bích,Với iPhone thì chị không xem máy trước khi thanh toán được chị đâu, máy siêu thị Thegioididong.com kinh doanh nguyên seal, phải thanh toán rồi mới khui được seal máy chị nhé! Và để giảm giá, chị cần thanh toán trực tuyến bằng MasterCard trên website nha! Xin thông tin đến chị!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.550213,
+      "id": "31698991",
+      "field_search": "question",
+      "question": "Iphone bị dính icloud thì có thể sửa bằng cách thay main mới đc ko ạ",
+      "answer": "Chào bạn,Dạ trường hợp này bạn vui lòng đem máy đến các cửa hàng sửa chữa Iphone bên ngoài để được hỗ trợ xem sao bạn nhé.Xin thông tin ạ.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.54679,
+      "id": "23205868",
+      "field_search": "question",
+      "question": "Mình thanh toán trả góp thì dùng thẻ atm được ko hay phải dùng tiền mặt vay",
+      "answer": "Chào bạn,Trường hợp này bạn có thể thanh toán tiền góp qua thẻ ATM bạn nhé, bạn vui lòng ra siêu thị để được hỗ trợ nha.Thông tin đến bạn!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.533382,
+      "id": "29535349",
+      "field_search": "question",
+      "question": "ngày 2/9 tgdd có mở cửa k ạ",
+      "answer": "Dạ chào anh Bên em vẫn làm việc bình thường từ 8:00 đến 22:00 anh nhé, anh có thể đến siêu thị trong khung giờ trên để được hỗ trợ ạ Thông tin đến anh",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.5250883,
+      "id": "26475337",
+      "field_search": "question",
+      "question": "Tải i tunes bằng đt đc ko ạ ? Ko cần laptop đấy ạ",
+      "answer": "Chào bạn Rất tiếc điện thoại không tải phần mềm iTunes được bạn nhé .Thông tin đến bạn .",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.514007,
+      "id": "27296941",
+      "field_search": "question",
+      "question": "Em có CMND và Bằng lái xe và 26 tuổi thì góp đc ko ạ",
+      "answer": "Chào chị ! Nếu chị có CMND (20 - 60 tuổi) và bằng lái xe thì chị có thể tham gia gói trả trước 3.745.000₫(50%) với số tiền đóng hàng tháng là khoảng 497.500₫(góp 8 tháng), lãi suất 0% với công ty tài chính Home Credit nha chị. Nếu cảm thấy phù hợp chị có thể cho em xin số điện thoại để bên em hỗ trợ chị làm hồ sơ online nha chị. Mong phản hồi từ chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.514007,
+      "id": "19505431",
+      "field_search": "question",
+      "question": "Iphone 6 32gb có cho trả góp 0% bằng thẻ tín dụng HSBC ko ạ",
+      "answer": "Chào anh,Hiện Điện thoại iPhone 6 32GB không hỗ trợ lãi suất 0% nhé. Anh hãy cung cấp thông tin về độ tuổi, giấy tờ anh đang có, số tiền anh muốn trả trước là bao nhiêu, em sẽ tư vấn gói lãi suất phù hợp cho anh nhéMong phản hồi từ anh !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.5105295,
+      "id": "18027928",
+      "field_search": "question",
+      "question": "Cho e hỏi bên mình có thay mặt gương của camera k, nếu có giá bn, 😂",
+      "answer": "Chào anh,Dạ rất tiếc Thegioididong.com không hỗ trợ thay màn hình ạ. Anh vui lòng liên hệ lên hãng để được hỗ trợ anh nha. Mong nhận được phản hồi từ anh!",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.4998603,
+      "id": "23356233",
+      "field_search": "question",
+      "question": "Thế giới di động lục nam có miếng dán của mặt lưng iphone 6 plus không , mặt lưng nhé không phải miếng dán màn hình ?",
+      "answer": "Chào anh !  Bên em có kinh doanh miếng dán lưng dán được cho Iphone 6 Plus ạ, anh có thể ra siêu thị mua hàng để được hỗ trợ dán nhé.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.4552946,
+      "id": "23261069",
+      "field_search": "question",
+      "question": "Bên mình có mở icloud iphone 6ko anh giá bao nhiêu ạ",
+      "answer": "Chào anh !  Rất tiếc Thegioididong.com không hỗ trợ mở icloud anh nhé. Mong anh thông cảm ạ.Thông tin đến anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.4540286,
+      "id": "26792577",
+      "field_search": "question",
+      "question": "Máy em iphone5 nhap mat khau khoa man hinh đúng mà vẫn vào được là bị sao nhỉ ad",
+      "answer": "Chào bạn,Xin lỗi mình chưa hiểu rõ ý bạn. Bạn vui lòng cung cấp thêm thông tin cho mình là bạn không nhập đúng mật khẩu hay sao vậy ạ, để mình có thể hỗ trợ cho bạn tốt hơn nhé. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.4516883,
+      "id": "19227936",
+      "field_search": "question",
+      "question": "Chỉ có bằng lái xe vs giấy cm có đk trả góp ko ạ. E gop 6 tháng",
+      "answer": "Chào anh, Nếu anh đủ 20-60 tuổi có CMND và bằng lái xe thì em xin tư vấn cho anh gói trả góp lãi suất 2.77% của công ty tài chính HomeCredit với mức trả trước 50%(4.495.000₫) và  góp trong 6 tháng (khoảng 912.000₫/tháng) anh nha. Nếu anh quan tâm đến gói trả góp này, anh có thể đến trực tiếp siêu thị Thegioididong.com để làm hồ sơ hoặc để lại tên và số điện thoại để bên em liên hệ và hỗ trợ anh làm hồ sơ trả góp online anh nhé. Mong phản hồi từ anh.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.441764,
+      "id": "21587639",
+      "field_search": "question",
+      "question": "Em chưa xài ip lần nào nhưng em chỉ tìm hiểu. Thì mình mở khóa bằng bảo mật VT sao phải nhập icoul ms dùng dc ạm",
+      "answer": "Chào bạn, Trường hợp này thì với bảo mật vân tay thì sẽ khác với iCloud với vân tay thì hỗ trợ bạn khóa màn hình còn với iCloud thì sẽ khóa toàn bộ máy tức là bảo mật sẽ cao hơn nếu máy của bạn mất vân tay thì có thể Restore lại máy để sử dụng được nhưng nếu máy bị khóa iCloud thì hiện tại vẫn chưa có cách mở khóa và không sử dụng được điện thoại nữa nha bạn. Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.441764,
+      "id": "20058328",
+      "field_search": "question",
+      "question": "Cho hỏi tại sau máy t cài mật khẩu , lúc mở khóa thì k xuất hiện mật khẩu để bấm mà toàn xài bằng vân tay k",
+      "answer": "Chào bạn,Trường hợp này do máy bạn có cài đặt vân tay nên khi mở máy sẽ ưu tiên sử dụng vân tay trước, nếu bạn muốn sử dụng mật khẩu và không sử dụng vân tay thì bạn có thể vào cài đặt để xóa vân tay đi khi đó máy chỉ dùng mật khẩu thôi nha bạn.Thân chào bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.4378605,
+      "id": "28450134",
+      "field_search": "question",
+      "question": "máy mình đang dùng bình thường,tự nhiên sập nguồn, sau khi bật nguồn lên thì:  -máy sạc pin ko lên - mở khóa cho máy cũng ko mở đc - thường thì máy có chữ hijeejn lên ở màn hình là : lướt để mở khóa nhưng lần này nó lại hiện ra chữ mở khóa khi khẩn cấp cho mình hỏi máy mình bị gì vậy ak.máy mình ip6 lock 16gb",
+      "answer": "Chào bạn,Trường hợp này bạn vui lòng thực hiện như sau: Nhấn giữ phím Nguồn và Phím Home cùng 1 lúc 10 – 15 giây có thể buông phím ra và chờ máy khởi động lại xem khắc phục được không bạn nhé.  Mong nhận được phản hồi từ bạn !",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.4274635,
+      "id": "25796923",
+      "field_search": "question",
+      "question": "Bên mình có hỗ trợ trả góp ko lãi suất . trả trước 30% ko ạ?? E có bằng lái và chứng minh ạ!",
+      "answer": "Chào chị,Với CMND(rõ hình chữ số) Bằng lái xe thì chị đưa trước:2.547.000₫ tiền góp tháng:1.032.000₫(góp 6 tháng) với công ty tài chính FeCredit lãi suất 0% nhé chịThông tin đến chị.",
+      "relate_q_q": 0
+    },
+    {
+      "score": 6.423932,
+      "id": "23533973",
+      "field_search": "question",
+      "question": "A/ c cho em hỏi mua ip6 32g có trả trước 0d ko ạ. E có cnnd + bằng lái xe",
+      "answer": "Chào anh, Anh dùng CMND , bằng lái xe anh không trả trước 0đ được ạ , anh phải dùng CMND , hộ khẩu , Hóa đơn điện và đủ 20-60t anh nhé . Mong sớm nhận được phản hồi từ anh.",
+      "relate_q_q": 0
+    }
+  ]
+}

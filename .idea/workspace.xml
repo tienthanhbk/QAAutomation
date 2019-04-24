@@ -2,34 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dad36d3-ac2d-4e58-91df-1f03b71e43f6" name="Default Changelist" comment="Split ez question&#10;&#10;(cherry picked from commit 82edd6b841a644dcb9a37fc66e05159e261abc03)&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;elastic.py">
+      <change afterPath="$PROJECT_DIR$/data/dev-small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train-small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elastic/judged/2hardquestion/20383304.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elastic/judged/2hardquestion/22845293.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elastic/judged/2hardquestion/23343582.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elastic/judged/2hardquestion/25133213.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elastic/judged/ezquestion/22542256.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elastic/judged/ezquestion/24845569.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bilstm-baomoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilstm-baomoi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/18642969-0.64-0.64-0.60-19.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/18642969-0.64-0.64-0.60-19.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/19215315-0.54-0.54-0.72-14.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/19215315-0.54-0.54-0.72-14.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/19517555-0.49-0.49-0.68-8.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/19517555-0.49-0.49-0.68-8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/19528018-0.65-0.65-0.63-22.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/19528018-0.65-0.65-0.63-22.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/19543668-0.29-0.29-0.19-10.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/19543668-0.29-0.29-0.19-10.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/19657831-0.29-0.29-0.24-8.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/19657831-0.29-0.29-0.24-8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/20119864-0.63-0.63-0.91-15.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/20119864-0.63-0.63-0.91-15.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/20340946-0.46-0.46-0.49-11.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/20340946-0.46-0.46-0.49-11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/27478811-0.48-0.48-0.66-11.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/27478811-0.48-0.48-0.66-11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/27517668-0.54-0.54-0.79-5.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/27517668-0.54-0.54-0.79-5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/27647778-0.53-0.53-0.77-5.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/27647778-0.53-0.53-0.77-5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/27775260-0.80-0.80-0.87-8.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/27775260-0.80-0.80-0.87-8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/28278713-0.17-0.17-0.23-4.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/28278713-0.17-0.17-0.23-4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/28789339-0.82-0.82-0.92-22.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/28789339-0.82-0.82-0.92-22.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/28942820-0.75-0.75-0.75-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/28942820-0.75-0.75-0.75-2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/29256841-0.33-0.33-0.44-6.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/29256841-0.33-0.33-0.44-6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/29453256-0.10-0.10-0.00-4.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/29453256-0.10-0.10-0.00-4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/29726655-0.42-0.42-0.42-12.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/29726655-0.42-0.42-0.42-12.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/29800652-0.46-0.46-1.00-6.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/29800652-0.46-0.46-1.00-6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/29999420-0.73-0.73-0.86-5.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/29999420-0.73-0.73-0.86-5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/30079621-0.60-0.60-0.76-4.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/30079621-0.60-0.60-0.76-4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/30947768-0.51-0.50-1.00-21.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/30947768-0.51-0.50-1.00-21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/31248323-0.49-0.49-0.47-14.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/31248323-0.49-0.49-0.47-14.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/32150763-0.50-0.50-0.55-4.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/32150763-0.50-0.50-0.55-4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/32222632-0.63-0.63-0.60-19.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/32222632-0.63-0.63-0.60-19.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/judged/tmp/32682061-0.50-0.50-0.57-12.json" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/judged/dev/addition/32682061-0.50-0.50-0.57-12.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilstm-concat.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilstm-concat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train-addition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train-addition.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic.py" beforeDir="false" afterPath="$PROJECT_DIR$/elastic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/dev/20312572-0.48-0.64-0.64.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/dev/23389135-0.35-0.50-0.60.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/dev/25717169-0.35-0.65-0.67.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/dev/25946259-0.37-0.55-0.78.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/dev/26190076-0.41-0.57-0.63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/17630743-0.43-0.86-0.98.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/17687631-0.69-0.88-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/17755505-0.54-0.82-0.99.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/19800650-0.74-0.84-0.84.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/19886795-0.74-0.93-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/19887806.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/19925776-0.75-0.97-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/20673784-0.92-0.96-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/20949724-0.89-0.93-0.98.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/22110626-0.69-0.90-0.93.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/22306985-0.72-0.96-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/22531140-0.69-0.86-0.91.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/22972022-0.89-0.98-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/23777833-0.66-0.90-0.95.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/24266605-0.83-0.97-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/24308119-0.88-0.98-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/24442812-0.89-0.98-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/24727080-0.63-0.90-0.95.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/24745141-0.57-0.85-0.99.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/24823523-0.80-0.98-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/24864749-0.81-0.98-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/25312437-0.71-0.91-0.99.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/25406703-0.87-0.99-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/25502086-0.85-0.91-0.95.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/26142934-0.68-0.89-0.99.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/26441131-0.59-0.95-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/27050153-0.67-0.87-0.91.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/27116102-0.65-0.81-0.95.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/ezquestion/27278998-0.68-0.93-1.00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/test/20052701-0.66-0.76-0.71.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/test/20463029-0.52-0.79-0.98.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/judged/test/22723540-0.55-0.77-0.96.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/20383304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/20673534.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/20793839.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/20806876.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/21162790.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/21838010.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/22074740.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/22139322.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/22193583.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/22235535.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/22260341.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/22429935.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/22542256.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/22711442.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/22845293.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/23105707.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/23343582.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/23866057.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/24502370.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/24845569.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/24853445.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/24954531.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/25133213.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/25368480.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/search_result/25383543.json" beforeDir="false" />
     </list>
     <ignored path="gensim/model/baomoi.model.bin" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +87,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/SearchEngine$searcher__1_.coverage" NAME="searcher (1) Coverage Results" MODIFIED="1551449874768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/QAAutomation$elastic.coverage" NAME="elastic Coverage Results" MODIFIED="1555926819105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QAAutomation$elastic.coverage" NAME="elastic Coverage Results" MODIFIED="1556078925206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SearchEngine$convenion.coverage" NAME="convenion Coverage Results" MODIFIED="1552877705465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SearchEngine$indexer.coverage" NAME="indexer Coverage Results" MODIFIED="1551021131634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SearchEngine$indexer__1_.coverage" NAME="indexer (1) Coverage Results" MODIFIED="1551746185804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -125,40 +172,41 @@
     <session id="-326402606">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="55" />
+          <entry key="project.closed" value="57" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="6" />
-          <entry key="project.open.time.10" value="10" />
+          <entry key="project.open.time.10" value="11" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="10" />
           <entry key="project.open.time.8" value="10" />
           <entry key="project.open.time.9" value="12" />
-          <entry key="project.opened" value="62" />
+          <entry key="project.opened" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="jl" value="1" />
-          <entry key="json" value="254" />
+          <entry key="json" value="268" />
           <entry key="kv" value="2" />
           <entry key="obb" value="1" />
-          <entry key="py" value="144" />
+          <entry key="py" value="150" />
           <entry key="tsv" value="1" />
-          <entry key="txt" value="175" />
+          <entry key="txt" value="198" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="254" />
+          <entry key="JSON" value="268" />
           <entry key="Julia" value="1" />
-          <entry key="PLAIN_TEXT" value="181" />
-          <entry key="Python" value="144" />
+          <entry key="PLAIN_TEXT" value="204" />
+          <entry key="Python" value="150" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -172,41 +220,26 @@
           <entry key="json" value="778" />
           <entry key="lstm" value="136" />
           <entry key="lstm2" value="476" />
-          <entry key="py" value="14582" />
-          <entry key="txt" value="790" />
+          <entry key="py" value="14606" />
+          <entry key="txt" value="791" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="778" />
-          <entry key="PLAIN_TEXT" value="828" />
-          <entry key="Python" value="15568" />
+          <entry key="PLAIN_TEXT" value="829" />
+          <entry key="Python" value="15592" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classifier.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="189" selection-start-line="189" selection-end-line="189" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bilstm-baomoi.py">
+        <entry file="file://$PROJECT_DIR$/elastic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1068">
-              <caret line="238" column="26" lean-forward="true" selection-start-line="238" selection-start-column="26" selection-end-line="238" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="20">
+              <caret line="259" column="37" lean-forward="true" selection-start-line="259" selection-start-column="37" selection-end-line="259" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -222,12 +255,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>44</find>
-      <find>cko</find>
-      <find>concatenate</find>
-      <find>ATM</find>
-      <find>import numpy as np\nimport pandas as pd\nimport convenion\nimport json\nimport glob\nimport os\.path\nimport pandas as pd\n\nfrom keras\.models import Sequential\nfrom keras\.layers import Dense\nfrom keras\.models import load_model\n\nfrom sklearn\.model_selection import train_test_split\n\nfrom gensim\.utils import simple_preprocess\nfrom gensim\.models\.doc2vec import TaggedDocument\, Doc2Vec\n\nfrom underthesea import word_tokenize\n\n\ndef train_model\(X_train\, y_train\, validation_data\)\:\n    \# Initialize the constructor\n    model \= Sequential\(\)\n\n    \# Add an input layer\n    model\.add\(Dense\(200\, activation\=\'relu\'\, input_shape\=\(400\,\)\)\)\n\n    \# Add one hidden layer\n    model\.add\(Dense\(100\, activation\=\'relu\'\)\)\n\n    \# Add an output layer\n    model\.add\(Dense\(1\, activation\=\'sigmoid\'\)\)\n\n    print\(\'Training classify model\.\.\'\)\n    model\.compile\(loss\=\'binary_crossentropy\'\,\n                  optimizer\=\'adam\'\,\n                  metrics\=\[\'accuracy\'\]\)\n\n    model\.fit\(X_train\, y_train\, validation_data\=validation_data\, epochs\=20\, batch_size\=1\, verbose\=1\)\n\n    model\.save\(\'model\/simple_classify_model\.h5\'\)  \# creates a HDF5 file \'my_model\.h5\'\n\n\ndef test_model\(\)\:\n    X_test \= np\.load\(\'model\/X_test\.npy\'\)\n    y_test \= np\.load\(\'model\/y_test\.npy\'\)\n    model \= load_model\(\'model\/simple_classify_model\.h5\'\)\n\n    y_pred \= model\.predict\(X_test\)\n    print\(y_pred\[\:10\]\)\n    score \= model\.evaluate\(X_test\, y_test\, verbose\=1\)\n    print\(score\)\n\n\#\n\# def raw_test_result\(\)\:\n\#\n\#\n\# def caculate_MAP\(\)\:\n\n\n\n\ndef raw_data\(path_regex\)\:\n    doc2vec_model \= Doc2Vec\.load\(\'gensim\/model\/question\.d2v\'\)\n    PATH_JUDGED_EXAMPLE \= \'elastic\/judged\/train\/17630743\-0\.43\-0\.86\-0\.98\.json\'\n\n    X_raw \= \[\]\n    y_raw \= \[\]\n\n    path_judgeds \= glob\.glob\(path_regex\)\n\n    for path_judged in path_judgeds\:\n        with open\(path_judged\, \'r\'\) as f\:\n            judged_result \= json\.load\(f\)\n\n            origin_question \= judged_result\[\'origin_question\'\]\n            org_q_vector \= doc2vec_model\.infer_vector\(simple_preprocess\(word_tokenize\(origin_question\, format\=\'text\'\)\)\)\n            org_q_vector \= np\.array\(org_q_vector\)\n\n            for hit in judged_result\[\'hits\'\]\:\n                judged_question \= hit\[\'question\'\]\n\n                judged_q_vector \= doc2vec_model\.infer_vector\(\n                    simple_preprocess\(word_tokenize\(judged_question\, format\=\'text\'\)\)\)\n                judged_q_vector \= np\.array\(judged_q_vector\)\n\n                concat_vector \= np\.concatenate\(\(org_q_vector\, judged_q_vector\)\)\n\n                label \= 0\n                if hit\[\'relate_q_q\'\] \=\= 1 or hit\[\'relate_q_q\'\] \=\= 2\:\n                    label \= 1\n\n                X_raw\.append\(concat_vector\)\n                y_raw\.append\(label\)\n\n    X_raw \= np\.array\(X_raw\)\n    y_raw \= np\.array\(y_raw\)\n    return X_raw\, y_raw\n\n\ndef save_raw_data\(\)\:\n    X_train\, y_train \= raw_data\(\'\.\/elastic\/judged\/train\/\*\.json\'\)\n    X_dev\, y_dev \= raw_data\(\'\.\/elastic\/judged\/dev\/\*\.json\'\)\n    X_test\, y_test \= raw_data\(\'\.\/elastic\/judged\/test\/\*\.json\'\)\n\n    print\(\'X_train len\: \'\, len\(X_train\)\)\n    print\(\'y_train len\: \'\, len\(y_train\)\)\n\n    print\(\'X_dev len\: \'\, len\(X_dev\)\)\n    print\(\'y_dev len\: \'\, len\(y_dev\)\)\n\n    print\(\'X_test len\: \'\, len\(X_test\)\)\n    print\(\'y_test len\: \'\, len\(y_test\)\)\n\n    np\.save\(\'model\/X_train\.npy\'\, X_train\)\n    np\.save\(\'model\/X_dev\.npy\'\, X_dev\)\n    np\.save\(\'model\/X_test\.npy\'\, X_test\)\n\n    np\.save\(\'model\/y_train\.npy\'\, y_train\)\n    np\.save\(\'model\/y_dev\.npy\'\, y_dev\)\n    np\.save\(\'model\/y_test\.npy\'\, y_test\)\n\n\ndef load_raw_data\(\)\:\n    X_train \= np\.load\(\'model\/X_train\.npy\'\)\n    X_dev \= np\.load\(\'model\/X_dev\.npy\'\)\n    X_test \= np\.load\(\'model\/X_test\.npy\'\)\n\n    y_train \= np\.load\(\'model\/y_train\.npy\'\)\n    y_dev \= np\.load\(\'model\/y_dev\.npy\'\)\n    y_test \= np\.load\(\'model\/y_test\.npy\'\)\n\n    print\(\'X_train len\: \'\, len\(X_train\)\)\n    print\(\'y_train len\: \'\, len\(y_train\)\)\n\n    print\(\'X_dev len\: \'\, len\(X_dev\)\)\n    print\(\'y_dev len\: \'\, len\(y_dev\)\)\n\n    print\(\'X_test len\: \'\, len\(X_test\)\)\n    print\(\'y_test len\: \'\, len\(y_test\)\)\n\n    return X_train\, X_dev\, X_test\, y_train\, y_dev\, y_test\n\n\ndef create_validation_data\(X_dev\, y_dev\)\:\n    validation_data \= \[\]\n    for sample\, label in zip\(X_dev\, y_dev\)\:\n        validation_data\.append\(\(sample\, label\)\)\n    return validation_data\n\n\# Split the data up in train and test sets\n\# X_train\, X_test\, y_train\, y_test \= train_test_split\(X\, y\, test_size\=0\.33\, random_state\=42\, shuffle\=True\)\n\#\n\# train_model\(X_train\, y_train\, X_test\, y_test\)\n\n\n\# X_train\, X_dev\, X_test\, y_train\, y_dev\, y_test \= load_raw_data\(\)\n\#\n\# validation_data \= create_validation_data\(X_dev\, y_dev\)\n\#\n\# train_model\(X_train\, y_train\, \(X_dev\, y_dev\)\)\n\# test_model\(\)\n\# load_raw_data\(\)\n\ndef raw_to_file\(\)\:\n    PATH_JUDGED_EXAMPLE \= \'elastic\/judged\/train\/17630743\-0\.43\-0\.86\-0\.98\.json\'\n    PATH_TRAIN_REGEX \= \'\.\/elastic\/judged\/train\/\*\.json\'\n    PATH_DEV_REGEX \= \'\.\/elastic\/judged\/dev\/\*\.json\'\n    PATH_TEST_REGEX \= \'\.\/elastic\/judged\/test\/\*\.json\'\n\n    path_judgeds \= glob\.glob\(PATH_TEST_REGEX\)\n    with open\(\'data\/test\.txt\'\, \'w\+\'\) as raw_file\:\n        for path_judged in path_judgeds\:\n            with open\(path_judged\, \'r\'\) as file_judged\:\n                judged_result \= json\.load\(file_judged\)\n\n                origin_question \= judged_result\[\'origin_question\'\]\n                id_origin_q \= judged_result\[\'id_query\'\]\n\n                for hit in judged_result\[\'hits\'\]\:\n                    judged_question \= hit\[\'question\'\]\n                    id_judged_q \= hit\[\'id\'\]\n                    score_search \= hit\[\'score\'\]\n                    label \= \'0\'\n                    if hit\[\'relate_q_q\'\] \=\= 3\:\n                        continue\n                    if hit\[\'relate_q_q\'\] \=\= 1 or hit\[\'relate_q_q\'\] \=\= 2\:\n                        label \= \'1\'\n\n                    \# test \= origin_question \+ \'\\t\' \+ judged_question \+ \'\\t\' \+ label\n                    \# print\(test\)\n                    raw_file\.write\(id_origin_q \+ \'\\t\' \+ origin_question \+ \'\\t\' \+ judged_question \+ \'\\t\' \+ label \+\n                                   \'\\t\' \+ str\(score_search\) \+ \'\\n\'\)\n    raw_file\.close\(\)\n\n\n\ndef evaluate_classify_model\(\)\:\n    test_df \= pd\.read_csv\(\'data\/test\.txt\'\,\n                          sep\=\'\\t\'\,\n                          header\=None\,\n                          names\=\[\'id\'\, \'origin_q\'\, \'compare_q\'\, \'label\'\, \'score_elastic\'\]\,\n                          \)\n    test_df\[\'predict\'\] \= 0\.01\n\n    doc2vec_model \= Doc2Vec\.load\(\'gensim\/model\/question\.d2v\'\)\n    classify_model \= load_model\(\'model\/simple_classify_model\.h5\'\)\n\n    for index\, row in test_df\.iterrows\(\)\:\n        origin_q \= row\[\'origin_q\'\]\n        compare_q \= row\[\'compare_q\'\]\n\n        origin_q_vector \= doc2vec_model\.infer_vector\(simple_preprocess\(word_tokenize\(origin_q\, format\=\'text\'\)\)\)\n        compare_q_vector \= doc2vec_model\.infer_vector\(simple_preprocess\(word_tokenize\(compare_q\, format\=\'text\'\)\)\)\n        concat_vector \= np\.concatenate\(\(origin_q_vector\, compare_q_vector\)\)\n        arr_wraper \= np\.array\(\[concat_vector\]\)\n\n        test_df\.at\[index\, \'predict\'\] \= classify_model\.predict\(arr_wraper\)\[0\]\[0\]\n\n    test \= test_df\.loc\[test_df\[\'id\'\] \=\= 22972022\]\n    test_sort \= test\.sort_values\(by\=\'predict\'\, ascending\=False\)\.reset_index\(drop\=True\)\n\n    id_queries \= \[\]\n    for id_query in test_df\[\'id\'\]\:\n        if id_query not in id_queries\:\n            id_queries\.append\(id_query\)\n\n    mAP_df \= pd\.DataFrame\(data\=id_queries\, columns\=\[\'id\'\]\)\n\n    score_AP_model_alls \= \[\]\n    score_AP_model_top10 \= \[\]\n    score_AP_elastic_alls \= \[\]\n    score_AP_elastic_top10 \= \[\]\n    for id_query in mAP_df\[\'id\'\]\:\n        group_id \= test_df\.loc\[test_df\[\'id\'\] \=\= id_query\]\n\n        \# Caculate mAP model\n        group_predict_sort \= group_id\.sort_values\(\n            by\=\'predict\'\,\n            ascending\=False\)\.reset_index\(drop\=True\)\n\n        AP_model_all \= convenion\.caculate_AP\(group_predict_sort\[\'label\'\]\)\n        AP_model_top10 \= convenion\.caculate_AP\(group_predict_sort\[\'label\'\]\[\:10\]\)\n\n        score_AP_model_alls\.append\(AP_model_all\)\n        score_AP_model_top10\.append\(AP_model_top10\)\n\n        \# Caculate mAP elastic search\n        group_elastic_sort \= group_id\.sort_values\(\n            by\=\'score_elastic\'\,\n            ascending\=False\)\.reset_index\(drop\=True\)\n        AP_elastic_all \= convenion\.caculate_AP\(group_elastic_sort\[\'label\'\]\)\n        AP_elastic_top10 \= convenion\.caculate_AP\(group_elastic_sort\[\'label\'\]\[\:10\]\)\n\n        score_AP_elastic_alls\.append\(AP_elastic_all\)\n        score_AP_elastic_top10\.append\(AP_elastic_top10\)\n\n    mAP_df\[\'AP_model_all\'\] \= score_AP_model_alls\n    mAP_df\[\'AP_model_top10\'\] \= score_AP_model_top10\n\n    mAP_df\[\'AP_elastic_all\'\] \= score_AP_elastic_alls\n    mAP_df\[\'AP_elastic_top10\'\] \= score_AP_elastic_top10\n\n    print\(\'mAP elastic all\: \'\, sum\(score_AP_elastic_alls\) \/ len\(score_AP_elastic_alls\)\)\n    print\(\'mAP model all\: \'\, sum\(score_AP_model_alls\) \/ len\(score_AP_model_alls\)\)\n    print\(\'mAP elastic top10\: \'\, sum\(score_AP_elastic_top10\) \/ len\(score_AP_elastic_top10\)\)\n    print\(\'mAP model top10\: \'\, sum\(score_AP_model_top10\) \/ len\(score_AP_model_top10\)\)\n\n    return mAP_df\n\n\n\# mAP_df \= evaluate_classify_model\(\)\n</find>
-      <find>sinh viên mua trả góp có được ưu đãi gì ko ạ!</find>
       <find>8 MP của iphone 6 này với</find>
       <find>\t</find>
       <find>get_processed_data</find>
@@ -243,7 +270,6 @@
       <find>28453188</find>
       <find>continue</find>
       <find />
-      <find>PATH_DATA_TEST_SMALL</find>
       <find>random</find>
       <find>nan</find>
       <find>wordvector_dims</find>
@@ -252,6 +278,13 @@
       <find>vocab_df</find>
       <find>PATH_WORD_VECTOR</find>
       <find>get_word_vectors</find>
+      <find>lãi xuất 0 % thì trả bao nhiu tiền trước ạ</find>
+      <find>e muốn mua trả_góp 0 % ip6 thì cần phải trả trước bao_nhiêu ạ</find>
+      <find>PATH_DATA_TEST_SMALL</find>
+      <find>trả góp 30 % thì sao a</find>
+      <find>xin chào cho mình hỏi là ip6 32g này được sản_xuất năm nào ah và muốn trả trước 30 % thì thủ_tục trả_góp như thế_nào ad xin cảm_ơn</find>
+      <find>máy này sạc bao_nhiêu tiếng</find>
+      <find>máy này sạc</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -263,9 +296,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/elastic/judged/train/22306985.json" />
-        <option value="$PROJECT_DIR$/elastic/judged/train/22364547.json" />
-        <option value="$PROJECT_DIR$/elastic/judged/train/22427896.json" />
         <option value="$PROJECT_DIR$/elastic/judged/train/23331540.json" />
         <option value="$PROJECT_DIR$/elastic/judged/train/24266605_more.json" />
         <option value="$PROJECT_DIR$/elastic/judged/train/24442812_more.json" />
@@ -307,13 +337,16 @@
         <option value="$PROJECT_DIR$/lstm-concat.py" />
         <option value="$PROJECT_DIR$/elastic/judged/tmp/28278713-0.17-0.17-0.23-4.json" />
         <option value="$PROJECT_DIR$/elastic/judged/tmp/29453256-0.10-0.10-0.00-4.json" />
-        <option value="$PROJECT_DIR$/elastic.py" />
         <option value="$PROJECT_DIR$/trash/bi-lstm-concat-old.py" />
         <option value="$PROJECT_DIR$/convenion.py" />
-        <option value="$PROJECT_DIR$/bilstm-concat.py" />
+        <option value="$PROJECT_DIR$/bilstm-baomoi.py" />
         <option value="$PROJECT_DIR$/classifier.py" />
         <option value="$PROJECT_DIR$/data/train-addition.txt" />
-        <option value="$PROJECT_DIR$/bilstm-baomoi.py" />
+        <option value="$PROJECT_DIR$/data/dev-small.txt" />
+        <option value="$PROJECT_DIR$/data/train.txt" />
+        <option value="$PROJECT_DIR$/data/train-small.txt" />
+        <option value="$PROJECT_DIR$/bilstm-concat.py" />
+        <option value="$PROJECT_DIR$/elastic.py" />
       </list>
     </option>
   </component>
@@ -376,14 +409,7 @@
               <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="elastic" type="462c0819:PsiDirectoryNode" />
               <item name="judged" type="462c0819:PsiDirectoryNode" />
-              <item name="ezquestion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QAAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QAAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="elastic" type="462c0819:PsiDirectoryNode" />
-              <item name="judged" type="462c0819:PsiDirectoryNode" />
-              <item name="train" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -408,11 +434,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/elastic/judged/dev/addition" />
-      <recent name="$PROJECT_DIR$/elastic/judged/tmp" />
-      <recent name="$PROJECT_DIR$/trash" />
       <recent name="$PROJECT_DIR$/elastic/judged/ezquestion" />
       <recent name="$PROJECT_DIR$/elastic/judged/2hardquestion" />
+      <recent name="$PROJECT_DIR$/elastic/judged/tmp" />
+      <recent name="$PROJECT_DIR$/elastic/judged/dev/addition" />
+      <recent name="$PROJECT_DIR$/trash" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -427,7 +453,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bilstm-baomoi">
+  <component name="RunManager" selected="Python.elastic">
     <configuration name="asd" type="JULIA_RUN_CONFIG_ID" factoryName="Julia">
       <setting name="workingDir" value="$PROJECT_DIR$" />
       <setting name="targetFile" value="$PROJECT_DIR$/asd.jl" />
@@ -477,6 +503,9 @@
       <module name="QAAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -584,9 +613,6 @@
       <module name="QAAutomation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -613,9 +639,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lstm2" />
         <item itemvalue="Python.bilstm-baomoi" />
         <item itemvalue="Python.classifier" />
-        <item itemvalue="Python.lstm2" />
         <item itemvalue="Python.convenion" />
         <item itemvalue="Python.lstm" />
       </list>
@@ -877,14 +903,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="736" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32956383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3562197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.18322982" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.35093167" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.42857143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39596274" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -893,8 +918,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.25310558" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.3726708" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4983845" weight="0.49689442" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.5694669" weight="0.31987578" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4983845" visible="true" weight="0.81055903" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.5694669" weight="0.3773292" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -965,62 +990,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/19533137-0.03-0.00-0.00.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/19715911-0.40-0.45-0.56.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/19828558-0.49-0.58-0.61.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/train/20773674-0.66-0.66-0.57.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-188" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/ezquestion/22110626-0.69-0.90-0.93.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/tmp/27297934.json" />
-    <entry file="file://$PROJECT_DIR$/elastic/judged/tmp/27478811.json" />
-    <entry file="file://$PROJECT_DIR$/elastic/judged/ezquestion/27297934-0.92-0.92-1.00-22.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/addition/29453256-0.10-0.10-0.00-4.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="239" column="5" lean-forward="true" selection-start-line="239" selection-start-column="5" selection-end-line="239" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/addition/30947768-0.51-0.50-1.00-21.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/tmp/31248323.json" />
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/addition/28942820-0.75-0.75-0.75-2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-639" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/addition/28278713-0.17-0.17-0.23-4.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="237" column="21" selection-start-line="237" selection-start-column="6" selection-end-line="237" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/2hardquestion/31941542-0.04-0.04-0.00-1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trash/indexer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-114" />
@@ -1092,13 +1061,6 @@
     <entry file="file://$PROJECT_DIR$/elastic/judged/dev/addition/20340946-0.46-0.46-0.49-11.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bilstm-concat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="876">
-          <caret line="146" column="16" lean-forward="true" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trash/bi-lstm-concat-old.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
@@ -1109,13 +1071,6 @@
     <entry file="file://$PROJECT_DIR$/data/test-more-info.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17943" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="268" column="19" selection-start-line="268" selection-start-column="19" selection-end-line="268" selection-end-column="19" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/elastic/judged/dev/addition/19215315-0.54-0.54-0.72-14.json">
@@ -1141,34 +1096,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/dev.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1802" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/train-addition.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="792" column="53" selection-start-line="792" selection-start-column="53" selection-end-line="792" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/train.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="7551" selection-start-line="7551" selection-end-line="7551" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elastic/judged/ezquestion/19887806.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -1176,23 +1103,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classifier.py">
+    <entry file="file://$PROJECT_DIR$/elastic/judged/test/20052701-0.66-0.76-0.71.json" />
+    <entry file="file://$PROJECT_DIR$/bilstm-baomoi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="189" selection-start-line="189" selection-end-line="189" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="462">
+          <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bilstm-baomoi.py">
+    <entry file="file://$PROJECT_DIR$/classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1068">
-          <caret line="238" column="26" lean-forward="true" selection-start-line="238" selection-start-column="26" selection-end-line="238" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-409">
+          <caret line="216" lean-forward="true" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/ezquestion/19887806.json" />
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/20312572-0.48-0.64-0.64-20.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/23389135-0.35-0.50-0.60-22.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/25946259-0.37-0.55-0.78-26.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/25717169-0.35-0.65-0.67-19.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/dev/26190076-0.41-0.57-0.63-50.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="4477" column="170" selection-start-line="4477" selection-start-column="40" selection-end-line="4477" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dev-small.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train-small.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="177" selection-start-line="29" selection-start-column="177" selection-end-line="29" selection-end-column="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dev.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="181" column="46" lean-forward="true" selection-start-line="181" selection-start-column="46" selection-end-line="181" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train-addition.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="1624" column="27" selection-start-line="1624" selection-start-column="27" selection-end-line="1624" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/ezquestion/22542256.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/2hardquestion/22845293.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bilstm-concat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/ezquestion/22711442-0.95-0.95-1.00-27.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2201" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/ezquestion/23866057-0.88-0.88-0.96-21.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/ezquestion/25368480-0.86-0.86-0.92-8.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic/judged/ezquestion/22260341-0.94-0.94-0.93-29.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="259" column="37" lean-forward="true" selection-start-line="259" selection-start-column="37" selection-end-line="259" selection-end-column="37" />
         </state>
       </provider>
     </entry>
